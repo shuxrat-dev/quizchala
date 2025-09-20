@@ -1,0 +1,3580 @@
+[
+  [
+    {
+      "question": "«Filosofiya» atamasini Qadimgi Yunonistonda dastlab kim ishlatgan?",
+      "options": [
+        "Demokrit.",
+        "Pifagor.",
+        "Aflotun.",
+        "Arastu."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«Ikkinchi Arastu», «Ikkinchi muallim» deb e’tirof etilgan mutafakkir kim?",
+      "options": [
+        "Ibn Sino.",
+        "Forobiy.",
+        "Beruniy.",
+        "al-Farg’oniy."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«Filosofiya» so’zining lug’aviy ma’nosini aniqlang.",
+      "options": [
+        "«fanlarning otasi»",
+        "«donishmandlik»",
+        "«odamni Qadrlash»",
+        "«donishmandlikni sevish»"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A.Imom Buxoriy.\nB.Burxoniddin Marg’inoniy.\nC.Alisher Navoiy.\nD.*Abu Nasr Forobiy.\n\n5. Monizm qanday ta’limot?",
+      "options": [
+        "Olamning asosi yakkayu yagona sababga, bitta asosga ega deyuvchi ta’limot.",
+        "Olamning asosida ko’p narsa va g’oyalar yotadi, deb e’tirof etadigan ta’limot.",
+        "Olamning asosida moddiy narsa yotishni e’tirof etadi.",
+        "Olamning asosida ruh yoki g’oyalar yotadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dualizm qanday ta’limot?",
+      "options": [
+        "Olam bitta asosga ega deb tan oluvchi ta’limot.",
+        "Olamning asosida faqat moddiylik yotadi.",
+        "Olamning asosida ruh, g’oyalar yotadi.",
+        "Olamning asosida ikkita asos, ya’ni materiya va ruh, g’oya yotadi deb e’tirof etuvchi ta’limot."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Dunyoqarashning shakllarini aniqlang.",
+      "options": [
+        "afsona (mif), din, falsafa",
+        "san’at, ma’naviyat, falsafa.",
+        "Fan, axloq, din.",
+        "huquq, siyosat, axloq."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ontologiya qanday ta’limot?",
+      "options": [
+        "borliq to’g’risidagi ta’limot..",
+        "insonning amaliy faoliyati haqidagi ta’limot.",
+        "axloq to’g’risidagi  bilimlar, qarashlar.",
+        "qadriyatlar to’g’risidagi ta’limot"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Gnoseologiya qanday ta’limot?",
+      "options": [
+        "bilishning shakl, usullari to’g’risidagi ta’limot.",
+        "Tafakkur shakllarini o’rganadi.",
+        "Qadriyatlar to’g’risidagi fan.",
+        "go’zallik haqidagi qarashlar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Aksiologiya…",
+      "options": [
+        "bilishning mohiyati haqidagi nazariya.",
+        "amaliy faoliyat to’g’risidagi falsafiy qarashlar.",
+        "Qadriyatlar to’g’risidagi ta’limot.",
+        "borliq haqidagi ta’limot."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Falsafa fanining vazifaalri.",
+      "options": [
+        "jamiyatni anglash.",
+        "tabiatni bilish",
+        "jamiyat va inson o’rtasidagi munosabatlar.",
+        "uslubiy, gnoseologik (bilish), tarbiyaviy.."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "O’zbekiston Prezidenti Islom Karimov qaysi asarida yoshlarni Sokrat, Platon, Freyd qarashlari, pragmatizm, ekzistentsializm g’oyalarini o’rganishga chaqiradi?",
+      "options": [
+        "«Sog’lom avlod – xalqimiz kelajagi»",
+        "«O’zgarish va yangilanish – hayot talabi»",
+        "«Milliy istiqlol mafkurasi – xalq e’tiqodi va buyuk kelajakka ishonchdir»",
+        "«Vatan ozodligi – oliy saodat»"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Miloddan avvalgi X asrdan eramizning VII –asrgacha davr mahsuli bo’lgan diniy-falsafiy ta’limot.",
+      "options": [
+        "Zardushtiylik",
+        "moniylik.",
+        "buddiylik.",
+        "mazdakchilik."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Moniy ta’limotining asosiy g’oyasi bu …",
+      "options": [
+        "nur dunyosi va zulmat dunyosi o’rtasidagi kurash.",
+        "tenglik.",
+        "mustaqillik uchun kurash.",
+        "ozodlik."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«Avesto»ning vatani…",
+      "options": [
+        "Qadimgi Xorazm",
+        "Qadimgi Hindiston.",
+        "Qadimgi Misr.",
+        "Qadimgi Farg’ona."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Hindistondagi dastlabki diniy-falsafiy qarashlar qaysi yozma manbada o’z aksini topgan?",
+      "options": [
+        "Vedalarda.",
+        "Konfutsiyning «Hikmatlar» kitobida.",
+        "buddizimning  muqaddas kitobi «Uch savat donolik» da.",
+        "Tavrotda."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Daosizm ta’limoti qaysi qadimgi davlatda paydo bo’lgan?",
+      "options": [
+        "Xitoyda.",
+        "Xindistonda.",
+        "Eronda.",
+        "Yunonistonda."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qadimgi dunyoning qaysi faylasufi borliqning dastlabki ibtidosi suv deb aytgan?",
+      "options": [
+        "Fales",
+        "Demokrit.",
+        "Geraklit.",
+        "Pifagor."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Stixiyali dialektikaga asos solgan qadimgi yunon faylasufi.",
+      "options": [
+        "Geraklit.",
+        "Pifogor.",
+        "Anaksimen.",
+        "Fales."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Borliqning asosida tuproq yotadi, deb hisoblagan qadimgi davr mutafakkiri.",
+      "options": [
+        "Ksenofan.",
+        "Diogen.",
+        "Parmenid.",
+        "Zenon."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«G’oyalar dunyosi va soyalar dunyosi» ta’limotining asoschisi.",
+      "options": [
+        "Aflotun.",
+        "Arastu.",
+        "Suqrot.",
+        "Demokrit."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Moddiy dunyo bo’shliq va atomlardan tashkil topgan degan qarash muallifi.",
+      "options": [
+        "Demokrit.",
+        "Geraklit.",
+        "Fales.",
+        "Arastu."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Olov olamning asosi deb hisoblagan faylasuf.",
+      "options": [
+        "Geraklit.",
+        "Demokrit.",
+        "Ksenofont.",
+        "Fales."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Olamning asosida ideallashgan raqamlar yotadi deb …",
+      "options": [
+        "Demokrit hisoblagan.",
+        "Geraklit hisoblagan.",
+        "Pifagor hisoblagan.",
+        "Fales hisoblagan."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kalom ilmining aql maqomiga alohida e’tibor bergan Samarqandlik o’rta asr mutafakkiri.",
+      "options": [
+        "Abu Mansur Moturidiy.",
+        "A.Yassaviy.",
+        "M. G’azzoliy.",
+        "Zamaxshariy."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Bag’doddagi «Bayt-ul-hikma» da ishlagan va rahbarlik qilgan buyuk alloma.",
+      "options": [
+        "Abu Nasr Forobiy.",
+        "Ibn Sino.",
+        "Muhammad al-Xorazmiy.",
+        "Beruniy."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«Hindiston» asarining muallifi kim?",
+      "options": [
+        "Beruniy.",
+        "Ibn-Sino.",
+        "Forobiy.",
+        "Ahmad Farg’oniy."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Prezident Islom Karimovning qaysi tamoyili o’rta asrlar falsafasini o’rganishda muhim ahamiyat kasb etadi?",
+      "options": [
+        "«Kuchli davlatdan kuchli jamiyat sari».",
+        "«Kuch-bilim va tafakkurda».",
+        "«Olloh qalbimizda, yuragimizda».",
+        "«Kuch-adolatda»."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Amir Temur davrida falsafa, mantiq ilmiga katta hissa qo’shgan olimlar.",
+      "options": [
+        "Sa’diddin Taftazoniy, Mir Sayyid Jurjoniy.",
+        "Muhammad Sharif Buxoriy, Mirzo Bedil.",
+        "Mirxond, Xondamir.",
+        "Kamoliddin Behzod, Sayyid Baraka."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«Ziji jadidi Ko’ragoniy» asarini kim yozgan?",
+      "options": [
+        "Mirzo Ulug’bek.",
+        "Amir Temur.",
+        "Mirxond.",
+        "Xondamir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Insoning paydo bulishi xakidagi evolyutsion kontseptsiya asoschisi kim?",
+      "options": [
+        "Ch. Darvin\nV.     K.Linney\nS.     Ch.Pirs\nD.     A. Eeynshtin\n31..\n\n32. O’rta asrlarda G’arbiy Evropada universaliyalar (umumiy tushunchalar) ning mohiyati haqida bahs yuritgan oqimlarni aniqlang.\nA.dualizm va panteizm.",
+        "deizm va idealizm.",
+        "Realizm va nominalizm.",
+        "ob’ektiv va sub’ektiv dialektika."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Xudo hamma narsalarda mavjud, hamma narsalar Xudoda mavjud deb hisoblagan G’arb uyg’onish davrining mutafakkiri kim?",
+      "options": [
+        "N.Kopernik.",
+        "Galiley.",
+        "Jordano Bruno.",
+        "N.Kuzanskiy."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Geliotsentrizm nazariyasining asoschisi.",
+      "options": [
+        "Nikolay Kuzanskiy.",
+        "Galiley.",
+        "J.Bruno.",
+        "Nikolay Kopernik."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Yangi davr Evropa faylasuflaridan qaysi biri hokimiyatlarni bo’linishi (qonun chiqaruvchi, ijro etuvchi, sud) tamoyillarini ko’rsatgan?",
+      "options": [
+        "F.Bekon.",
+        "R.Dekart.",
+        "Didro.",
+        "Jon Lokk."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "XVIII asr frantsuz milliy falsafa maktabi vakillarini aniqlang.",
+      "options": [
+        "Didro, Russo.",
+        "Tomas Gobbs, Jon Lokk.",
+        "F.Bekon, J.Lokk.",
+        "Kant, Gegel."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«Men fikr qilyapman,  demak, men mavjudman» deb qaysi mutafakkir aytgan?",
+      "options": [
+        "F.Bekon.",
+        "Kant.",
+        "Gegel.",
+        "R.Dekart."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nemis milliy falsafasi namoyondalarini aniqlang.",
+      "options": [
+        "Gobbs, Lokk.",
+        "Didro, Lometro.",
+        "I.Kant, Gegel.",
+        "Russo, Golbax."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inson aqlining cheksiz qudratiga ishonchsizlik bilan qaragan nemis faylasufi.",
+      "options": [
+        "Gegel.",
+        "Didro.",
+        "Kant.",
+        "Russo."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Borliqning asosida «mutlaq g’oya», «dunyo ruhi» yotadi deb hisoblagan nemis faylasufi.",
+      "options": [
+        "Kant.",
+        "Dekart.",
+        "Gegel.",
+        "Bekon."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«Zardo’sht tavallosi» asarini kim yozgan?",
+      "options": [
+        "Fridrix Nitsshe.",
+        "Kant.",
+        "Gegel.",
+        "Shpengler."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "XIX – asrda paydo bo’lgan pozitivizm falsafiy oqimining asoschisi.",
+      "options": [
+        "Gegel.",
+        "K.Popper.",
+        "I.Kant.",
+        "Ogyust Kont."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "XX asrdagi eng yirik diniy-falsafiy oqim.",
+      "options": [
+        "pozitivizm.",
+        "germenevtika.",
+        "neotomizm.",
+        "pragmatizm."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "AQShda keng tarqalgan, foydali faoliyatga undovchi falsafiy ta’limot.",
+      "options": [
+        "ekzistentsial falsafa.",
+        "germenevtika.",
+        "pragmatizm.",
+        "neotomizm."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Insonning mavjudligi (borlig’i), erkinligi g’oyalariga tayanuvchi falsafiy ta’limot.",
+      "options": [
+        "ekzistentsializm.",
+        "neotomizm.",
+        "pragmatizm.",
+        "pozivitizm."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Jamiyat tarixi, taraqqiyoti tsivilizatsiyalar almashinuvidan iborat deb hisoblovchi ingliz olimini aniqlang.",
+      "options": [
+        "P.Sorokin.",
+        "K.Popper.",
+        "Arnold Toynbi.",
+        "Rostou."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Vahdati-vujud ya’ni xudoni olamning o’zida deb biladigan falsafiy oqim vakilini aniqlang.",
+      "options": [
+        "Boborahim Mashrab.",
+        "So’fi Olloyor.",
+        "Turdi Farog’iy.",
+        "Mirzo Bedil."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "XIX asr oxiri ma’rifatparvarlik harakatining yirik namoyandalarini aniqlang.",
+      "options": [
+        "Yusuf Qorabog’iy, B.Mashrab.",
+        "Ahmad Donish, Furqat.",
+        "So’fi Olloyor, Turdi Farog’iy",
+        "Mirzo Bedil, Muhammad Sharif Buxoriy."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Jadidlar ilgari surgan asosiy g’oyalar.",
+      "options": [
+        "ma’rifat, taraqqiyot, mustaqillik g’oyalari.",
+        "mulkiy tenglik g’oyalari.",
+        "faqat adolat g’oyalari.",
+        "faqat islom dinini rivojlantirish g’oyalari."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafaning borliq haqidagi ta’limoti.",
+      "options": [
+        "gnoseologiya.",
+        "aksiologiya.",
+        "ontologiya.",
+        "sotsiologiya."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Borliqning shakllari.",
+      "options": [
+        "moddiy va ijtimoiy borliq.",
+        "moddiy va inson borlig’i.",
+        "moddiy, ijtimoiy, ma’naviy.",
+        "materiya va modda."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Borliqning asosiy atributlari (ajralmas xususiyatlari).",
+      "options": [
+        "harakat tva uning shakllari.",
+        "harakat, fazo va vaqt.",
+        "fazo va vaqt.",
+        "harakat va vaqt."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Harakatning eng oddiy shakli bu:",
+      "options": [
+        "mexanik.",
+        "fizik.",
+        "ximik.",
+        "biologik."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Harakatning eng yuqori shakli bu:",
+      "options": [
+        "biologik harakat.",
+        "mexanik harakat.",
+        "fizik harakat.",
+        "ijtimoiy harakat."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ijtimoiy harakat ..",
+      "options": [
+        "jamiyatda bo’ladi.",
+        "jonli tabiatda ro’y beradi.",
+        "jonsiz tabiatda ro’y beradi.",
+        "butun borliqda ro’y beradi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Harakat bu:",
+      "options": [
+        "faqat jamiyatda ro’y beradi.",
+        "faqat jonsiz tabiatda bo’ladi.",
+        "Butun borliqdagi barcha o’zgarishlar.",
+        "Jonsiz tabiatdagi o’zgarishlar."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Fazo …",
+      "options": [
+        "narsalarni ko’lami, hajmi va o’zaro joylashish tartibini ifodalaydi.",
+        "hodisalarning ketma-ketligini ifodalaydi.",
+        "miqdoriy ko’rsatkichli ifodalar.",
+        "sifatni aks ettiradi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Vaqt …",
+      "options": [
+        "fizikaviy o’zgarishlarni aks ettiradi.",
+        "hodisalarning ketma-ketligi, jarayonlarning davomiyligini ifodalaydi.",
+        "fazoviy o’zgarishlarni aks ettiradi.",
+        "miqdoriy o’zgarishlar."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Borliqning miqyosiy struktura darajalari.",
+      "options": [
+        "mikrodunyo va makrodunyo.",
+        "mikrodunyo, makrodunyo, megadunyo.",
+        "makrodunyo va megadunyo.",
+        "jonli va jonsiz tabiat."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Borliqning sifatiy rivojlanish darajalari:",
+      "options": [
+        "jonli va jonsiz tabiat.",
+        "materiya va modda.",
+        "organik va anorganik dunyo.",
+        "anorganik, organik, ijtimoiy dunyo."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Biosfera nima?",
+      "options": [
+        "inson tarqalgan qismi.",
+        "inson aql-idrokining tarqalgan chegarasi.",
+        "Erning hayot tarqalgan qismi.",
+        "jonsiz tabiat chegarasi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Noosfera …",
+      "options": [
+        "inson aqlining olamga ta’sir ko’rsatish chegarasi.",
+        "Erning hayot tarqalgan chegarasi.",
+        "hayvonot dunyosi tarqalgan chegarasi.",
+        "O’simliklar dunyosining inson bilan bog’liqligi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qonunning falsafiy tushunchasi aks ettiradi:",
+      "options": [
+        "Ongdagi o’zaro aloQadorlikni.",
+        "Narsa va hodisalarning muhim, zaruriy, umumiy takrorlanib turuvchi aloqadorliklarini.",
+        "faqat jamiyatdagi o’zaro bog’lanishlarni.",
+        "muhim bo’lmagan, tashqi bog’lanishlarni."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tafovut…",
+      "options": [
+        "narsa va hodisalar o’rtasidagi o’xshash tomonlarni ifodalaydi.",
+        "bir-birini inkor qiluvchi tomonlarini ifodalaydi.",
+        "narsa-hodisalarning farq qiluvchi tomonlarini ifodalovchi tushuncha.",
+        "qarama-qarshiliklar o’rtasidagi munosabatni ifodalaydi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ayniyat tushunchasi nimani ifodalaydi?",
+      "options": [
+        "narsa va hodisalar o’rtasidagi o’xshash tomonlarni.",
+        "narsa-hodisalardagi farq qiluvchi tomonlarni.",
+        "qarama-qarshiliklar o’rtasidagi munosabatlarni.",
+        "bir-birini inkor qiluvchi tomonlarni."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qarama-qarshilik tushunchasi…",
+      "options": [
+        "narsa-hodisalardagi o’xshash tomonlarni.",
+        "narsa-hodisalarning farq qiluvchi tomonlarini.",
+        "narsa-hodisalarning bir-birini taqozo etuvchi va shu bilan birga bir-birini inkor etuvchi.",
+        "tabiat va jamiyat munosabatiga."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ziddiyat nima?",
+      "options": [
+        "qarama-qarshiliklar o’rtasidagi munosabatni ifodalaydigan tushuncha.",
+        "narsa-hodisalar o’rtasidagi o’xshashliklarni ifodalaydigan tushuncha.",
+        "narsa-hodisalardagi farqlarni ifodalaydigan tushuncha.",
+        "jamiyat va inson munosabatlarini ifodalaydigan tushuncha."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sifat tushunchasining falsafiy mazmuni.",
+      "options": [
+        "predmetning hajmi, o’lchovi, og’irligi, harakat tezligini tavsiflaydi.",
+        "miqdor bilan birligini aks ettiradi.",
+        "narsalarning ichki va tashqi muayyanligi bo’lib, uning xossa, xususiyatlari birligini ifodalaydi.",
+        "eski sifatdan yangi sifatga o’tishni ifodalaydi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Miqdor …",
+      "options": [
+        "sifat bilan birligini aks ettiradi.",
+        "predmetlarning sifatiy o’zgarishlarini ifodalaydi.",
+        "predmetning hajmi, o’lchov, og’irligi, harakat tezligi va shu kabilar bilan tavsiflanadi.",
+        "oddiydan murakkabga o’tishni ko’rsatadi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Miqdor va sifat birligini ifodalaydigan tushuncha.",
+      "options": [
+        "sakrash.",
+        "ayniyat.",
+        "tafovut.",
+        "me’yor."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Tabiat va jamiyatda sodir bo’ladigan sifat o’zgarishlarini anglatadigan tushuncha:",
+      "options": [
+        "sakrash.",
+        "qarama-qarshiliklar.",
+        "ziddiyat.",
+        "me’yor."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Eskini yangi bilan almashinuvi…",
+      "options": [
+        "inkor deb aytiladi.",
+        "miqdor deyiladi.",
+        "me’yor deyiladi.",
+        "qarama-qarshilik deyiladi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Inkorni-inkor qonuni bo’yicha taraqqiyot …",
+      "options": [
+        "to’g’ri chiziqli bo’ladi.",
+        "spiralsimon shaklga ega bo’ladi.",
+        "chiziqlar tutashgan aylana shaklda bo’ladi.",
+        "vorissiz bo’ladi."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Falsafa tarixida kategoriyalarni ilmiy o’rganib, falsafani fan darajasiga ko’targan olim kim?",
+      "options": [
+        "Suqrot.",
+        "Demokrit.",
+        "Arastu.",
+        "Geraklit."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Narsa va hodisalardagi o’zaro bog’lanish va eng umumiy aloqadorliklarni ifodalaydigan tushuncha …",
+      "options": [
+        "holat deyiladi.",
+        "xossa deyiladi.",
+        "kategoriya deyiladi.",
+        "munosabat deyiladi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Olamdagi narsa, voqea va   jarayonlarga xos bo’lgan belgilar hamda xususiyatlarni  aks ettiruvchi falsafiy kategoriyani aniqlang.",
+      "options": [
+        "umumiylik.",
+        "mazmun",
+        "mohiyat.",
+        "alohidalik."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Narsa, hodisalar, jarayonlarga xos doimiy, takrorlanadigan belgilar, xususiyatlar yig’indisini aks ettiruvchi falsafiy tushuncha.",
+      "options": [
+        "umumiylik.",
+        "sabab.",
+        "oqibat.",
+        "alohidalik."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Narsa va hodisalardagi qismlar o’rtasidagi birlikni ifodalovchi falsafiy kategoriya?",
+      "options": [
+        "qism.",
+        "xususiylik.",
+        "butun.",
+        "shakl."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Butun tarkibidagi alohidalik nima deb aytiladi?",
+      "options": [
+        "qism.",
+        "imkoniyat.",
+        "tasodif.",
+        "zaruriyat."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ma’lum sharoit mavjud bo’lgan taqdirda albatta yuz beradigan voqea yoki hodisa…",
+      "options": [
+        "zaruriyat.",
+        "tasodif.",
+        "butun.",
+        "qism."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sabab va oqibat aloqadaorligi (sababiyat) ni tan oluvchi ta’limot.",
+      "options": [
+        "agnostitsizm.",
+        "aksiologiya.",
+        "ontologiya.",
+        "determinizm."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sababiyatni inkor qiluvchi ta’limot.",
+      "options": [
+        "aksiologiya.",
+        "indeterminizm.",
+        "ontologiya.",
+        "agnostitsizm."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Yangi narsa, hodisa kelib chiqishini ifodalovchi muayyan shart-sharoit, vaziyat …",
+      "options": [
+        "imkoniyat.",
+        "voqelik.",
+        "tasodif.",
+        "zaruriyat."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Real holat va mavjud bo’lib turgan hodisalarni ifodalovchi kategoriya (ro’yobga chiqqan imkoniyat).",
+      "options": [
+        "zaruriyat.",
+        "imkoniyat.",
+        "voqelik.",
+        "tasodif."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Muayyan narsa, hodisalar, jarayonlarning o’ziga xos sifat, xususiyatlari, muhim belgilari, elementlarining yig’indisini..",
+      "options": [
+        "shakl anglatadi.",
+        "mazmun tushunchasi anglatadi.",
+        "tasodif.",
+        "zaruriyat."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Narsa, hodisa va jarayonlarning ichki, muhim, asosiy, zaruriy, barqaror aloqadorlik, munosabatlarini ifodalaydigan falsafiy kategoriya.",
+      "options": [
+        "hodisa.",
+        "shakl.",
+        "mohiyat.",
+        "oqibat."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Mohiyatning tashqi ifodasi, namoyon bo’lishi…",
+      "options": [
+        "mohiyat.",
+        "imkoniyat.",
+        "hodisa.",
+        "voqelik."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Natijani zaruran kelib chiqishini ta’minlovchi hodisa …",
+      "options": [
+        "butun deyiladi.",
+        "sabab deyiladi.",
+        "oqibat deyiladi.",
+        "qism deyiladi."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Hodisalar zanjirida sababning ta’sirida vujudga keladigan yangi hodisa bu:",
+      "options": [
+        "mohiyat.",
+        "inkor.",
+        "oqibat.",
+        "miqdor."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«Dialektika» so’zini birinchi bo’lib qo’llagan faylasuf kim?",
+      "options": [
+        "Aflotun.",
+        "Arastu.",
+        "Fales.",
+        "Suqrot."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "«Dialektika» atamasining lug’aviy ma’nosi qanday?",
+      "options": [
+        "«suhbat, bahs»",
+        "«moddiylik»",
+        "«g’oya»",
+        "«ikkilangan»"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Olamdagi narsa va hodisalar doimo o’zgarishda, o’zaro aloqadorlik va bog’liqlikda, rivojlanish va taraqqiyotda deb hisoblovchi ta’limot.",
+      "options": [
+        "metafizika.",
+        "eklektika.",
+        "dialektika.",
+        "sofistika."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«O’zingni bilsang, olamni bilasan» iborasi kimga tegishli?",
+      "options": [
+        "Gegel.",
+        "Byuxner.",
+        "Suqrot.",
+        "N.Kopernik."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "G’arbiy Evropalik qaysi olim psixika ongsizlik, ong osti hodisalarini va ongning o’zidan iborat uch qatlamdan tashkil topgan deb hisoblagan?",
+      "options": [
+        "Xaydegger.",
+        "Ch.Pirs.",
+        "Freyd.",
+        "P.Sorokin."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "In’ikosning oliy shakli, inson miyasining xossasi, ijtimoiy (jamiyat) taraqqiyotining mahsuli degan ta’rif qaysi ma’naviy hodisaga taalluqli?",
+      "options": [
+        "ma’naviyatga.",
+        "ruhiyatga.",
+        "ongga.",
+        "sezgiga."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "O’zini bilish, baholash, tartibga solish qaysi noyob ma’naviy hodisaga xos?",
+      "options": [
+        "Tasavvufga.",
+        "idrokka.",
+        "o’z-o’zini anglashga.",
+        "sezgiga."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inson aqliy sohasidan tashqarida, ong tomonidan nazoratga olinmaydigan turli ruhiy hodisa va holatlar…",
+      "options": [
+        "ong",
+        "tafakkur.",
+        "ongsizlik.",
+        "sezgi, Tasavvuflar."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ruhiy tahlil (psixoanaliz) ta’limotining asoschisi.",
+      "options": [
+        "K.Yung.",
+        "Z.Freyd.",
+        "E.Fromm.",
+        "K.Popper."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ijtimoiy ong  nima?",
+      "options": [
+        "bir kishiga tegishli qarashlar.",
+        "faqat siyosiy qarashlar.",
+        "jamiyatning muayyan davriga tegishli bo’lgan umumiy his-tuyg’u,  kayfiyatlar, qarashlar, g’oyalar nazariyalar.",
+        "axloqiy qarashlar va huquq."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Jamiyatdagi voqelik va real borliqning alohida olingan shaxsning ongida aks etishi …",
+      "options": [
+        "ijtimoiy ong.",
+        "jamoa ongi.",
+        "individual ong.",
+        "guruh ongi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Voqelikni aks ettirish darajasiga ko’ra ijtimoiy ong … bo’linadi.",
+      "options": [
+        "axloqiy va diniy ongga.",
+        "odatiy (kundalik) va nazariy ongga.",
+        "siyosiy va huquqiy ongga.",
+        "san’at va ijtimoiy ongga."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ijtimoiy ongning darajalariga kiradi:",
+      "options": [
+        "tasodif va zaruriyat.",
+        "mazmun va shakl.",
+        "Ijtimoiy psixologik va ijtimoiy idealogik (mafkura)",
+        "mohiyat va hodisa."
+      ],
+      "correct": 2
+    }
+  ],
+  [
+    {
+      "question": "Ijtimoiy psixologiya (ruhiyat):",
+      "options": [
+        "Ijtimoiy guruhlar hayotini muayyan his-tuyg’ular, kayfiyatlarda aks ettiradi.",
+        "Alohida shaxslar qarashini aks ettiradi.",
+        "Manfaatlar, g’oyalarni aks ettiradi.",
+        "Tabiat va jamiyatdagi o’tkir muammolarni ko’rsatadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ijtimoiy guruhlar ehtiyojlari, manfaatlarining ichki mohiyatini,s ababini har xil g’oyalar, nazariyalar, ta’limotlar shaklida aks ettiruvchi tushuncha:",
+      "options": [
+        "ijtimoiy psixologiya.",
+        "ijtimoiy ideologiya (mafkura)",
+        "din.",
+        "adabiyot."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ijtimoiy ong shakllaridan qaysi biri voqelikni badiiy obrazlar orqali aks ettiradi?",
+      "options": [
+        "huquqiy ong.",
+        "estetik ong.",
+        "axloqiy ong.",
+        "diniy ong."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ijtimoiy ong shakllaridan qaysi biri voqelikni (borliQni) ilmiy tushuncha, qonunlar , nazariyalar orqali aks ettiradi?",
+      "options": [
+        "fan.",
+        "axloq.",
+        "din.",
+        "siyosat."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Gnoseologiya so’zining lug’aviy ma’nosini aniqlang.",
+      "options": [
+        "borliq haqida ta’limot.",
+        "qadriyatlar haqida ta’limot.",
+        "bilish nazariyasi.",
+        "amaliyot haqidagi ta’limot."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Olamni, voqelikdagi moddiy va ma’naviy sistemalar mohiyatini, tabiat va insoniyat qonuniyatlarini ishonarli bilish mumkinligini inkor etuvchi ta’limot.",
+      "options": [
+        "gnostitsizm.",
+        "gnoseologiya.",
+        "agnostitsizm.",
+        "aksiologiya."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inson ongini yangi bilimlar bilan boyib borish jarayonini qaysi tushuncha izohlaydi?",
+      "options": [
+        "bilim.",
+        "sezgi.",
+        "bilish.",
+        "Tasavvuf."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inson bilish jarayonining umumiy natijasi…",
+      "options": [
+        "idrokdir.",
+        "tushunchadir.",
+        "bilimdir.",
+        "sezgidir."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inson bilishining bosqichlarini ko’rsating.",
+      "options": [
+        "tushuncha va xulosa.",
+        "hukm va xulosa.",
+        "hissiy va aqliy (mantiqiy) bilish.",
+        "sezgi, idrok, Tasavvuf."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Hissiy bilish shakllarini aniqlang.",
+      "options": [
+        "tushuncha, hukm, xulosa.",
+        "til, belgi, ma’no.",
+        "sezgi, idrok, Tasavvuf.",
+        "kuzatish, analiz, sintez."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Aqliy (mantiqiy) bilish shakllari bu:",
+      "options": [
+        "sezgi, idrok, Tasavvuf.",
+        "kuzatish, analiz, sintez.",
+        "tushuncha, hukm, xulosa.",
+        "induktsiya, deduktsiya, analogiya."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ijtimoiy bilish …",
+      "options": [
+        "tabiatni bilishdir.",
+        "jamiyatni, ijtimoiy jarayon va hodisalarni bilishdir.",
+        "jonli tabiatni o’rganish.",
+        "moddiy olam qonunlarini bilish."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ilmiy bilishning usullari bu:",
+      "options": [
+        "kuzatish, analiz, sintez, eksperiment.",
+        "abstraktlashtirish, konkretlashtirish, ideallashtirish.",
+        "induktsiya, deduktsiya, modellashtirish.",
+        "Hammasi to’g’ri."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Inson bilimlarining voqelikka muvofiqligini qaysi falsafiy tushuncha aks ettiradi?",
+      "options": [
+        "adolat.",
+        "erkinlik.",
+        "haqiqat.",
+        "tenglik."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Bilishning sub’ekti…",
+      "options": [
+        "barcha tirik mavjudotlar.",
+        "reallikning o’zi",
+        "malaka, ko’nikmaga ega inson.",
+        "borliqning barcha ko’rinishlari."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Bilishning ob’ekti ….",
+      "options": [
+        "faqat tabiatdagi narsalar va hodisalar.",
+        "faqat inson faoliyati.",
+        "borliqning barcha ko’rinishlari, shakllari.",
+        "faqat jonli tabiat."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ilmiy bilish bu:",
+      "options": [
+        "axloqiy normalar yordamida bilish.",
+        "diniy qadriyatlar yordamida bilish.",
+        "fan yordamida bilish.",
+        "faqat san’at vositalari orqali bilish."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ob’ektni qismlarga bo’lib, tahlil qilib,   shu qismlarni fikran bir butunga birlashtirish:",
+      "options": [
+        "kuzatish va eksperiment.",
+        "analiz va sintez.",
+        "modellashtirish.",
+        "analogiya."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«O’zligingni bil, angla» degan hikmatli so’zlar qadimgi dunyoning qaysi faylasufiga tegishli?",
+      "options": [
+        "Arastu.",
+        "Aflotun.",
+        "Gippokrat.",
+        "Suqrot."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Insonni kelib chiqish va rivojlanishini o’rganadigan fan.",
+      "options": [
+        "adabiyot, tilshunoslik.",
+        "antropologiya.",
+        "etnografiya.",
+        "lingvistika."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Borliqning bir qismi bo’lib, odamlar uyushmasining maxsus shakli, kishilar o’rtasida amal qiladigan munosabatlar yig’indisi bu:",
+      "options": [
+        "jonli tabiat.",
+        "millat.",
+        "jamiyat.",
+        "inson."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Jamiyat hayotining sohalari:",
+      "options": [
+        "moddiy va axloqiy.",
+        "moddiy va siyosiy.",
+        "moddiy, ijtimoiy-siyosiy va ma’naviy.",
+        "ma’naviy va huquqiy."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Jamiyat taraqqiyotining tadrijiy rivojlanishi, ijtimoiy tizimning muayyan darajadagi bir tekis faoliyat ko’rsatish imkoniyati….",
+      "options": [
+        "turg’unlik.",
+        "beqarorlik.",
+        "barqarorlik.",
+        "erkinlik."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Hozirgi davr jamiyati taraqqiyotining mezoni.",
+      "options": [
+        "faqat moddiy boyliklarni o’sib borishi.",
+        "faqat ma’naviy boyliklarning o’sishi.",
+        "shaxs erkinligi darajasining o’sib borishi.",
+        "milliy ongning rivojlanishi."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Jamiyatning ijtimoiy tuzilishiga…",
+      "options": [
+        "faqat milliy va elatlar kiradi.",
+        "faqat oila va urug’lar kiradi.",
+        "Oila, toifa, tabaqa, sinflar, urug’, qabila, elat, millatlar kiradi.",
+        "irqlar kiradi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Madaniyat – bu:",
+      "options": [
+        "Moddiy va ma’naviy boyliklar yig’indisi, jamiyat, insonning sifat ko’rsatkichi.",
+        "moddiy boyliklar yig’indisi.",
+        "ma’naviy boyliklar yig’indisi.",
+        "ijtimoiy ong."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Madaniyatning asosiy turlari:",
+      "options": [
+        "mehnat qurollari va turmush tarzi.",
+        "axloq va san’at.",
+        "moddiy va ma’naviy madaniyat.",
+        "din va fan."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«Tsivilizatsiya» qanday ma’noni bildiradi.",
+      "options": [
+        "«jamiyatga tegishli»",
+        "«fuqarolikka oid»",
+        "«din rivoji»",
+        "«axloqqa taalluqli»."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tsivilizatsiya tushunchasi qaysi javobda to’laroq ochilgan?",
+      "options": [
+        "moddiy va ma’naviy taraqqiyotning uyg’unligi.",
+        "moddiy rivojlanish.",
+        "ma’naviy taraqqiyot.",
+        "iqtisodiy o’zgarishlar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Butun insoniyat tarixini uch davrga – agrar jamiyat, sanoat(industrial) jamiyati va postindustrial jamiyat  (axborot jamiyati) ga bo’lgan olim.",
+      "options": [
+        "O.Toffler.",
+        "U.Rostou.",
+        "P.Sorokin.",
+        "K.Popper."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Aksiologiya so’zining lug’aviy ma’nosi.",
+      "options": [
+        "qadriyatlar ta’limoti.",
+        "madaniyat to’g’risida ta’limot.",
+        "axloq haqidagi fan.",
+        "bilish to’g’risidagi ta’limot."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Huquqning mohiyati, ahamiyati, huquqiy ong va huquqiy faoliyatning o’zaro bog’liqlik jihatlarini o’rganadigan fan.",
+      "options": [
+        "huquq falsafasi.",
+        "qadriyatlar falsafasi.",
+        "madaniyat nazariyasi.",
+        "siyosat falsafasi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qadriyat nima?",
+      "options": [
+        "Narsa va hodisalardagi inson va jamiyat uchun ijtimoiy ahamiyatlilik jihatlarini ifodalaydigan tushuncha.",
+        "narsalar qiymatini  aks ettiradi.",
+        "hodisalardagi muhim bo’lmagan tomonlarni aks ettiradi.",
+        "narsalarning alohida belgilarini ko’rsatadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Borliqni ilmiy tushunchalar (kategoriyalar), qonunlar, nazariyalar orqali aks etuvchi ijtimoiy ong shakli.",
+      "options": [
+        "fan.",
+        "din.",
+        "axloq.",
+        "san’at."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Yangi davrda «Bilim - kuchdir» shiorini ilgari surgan olimlar.",
+      "options": [
+        "I.N’yuton, Kopernik.",
+        "Kepler, Bruno.",
+        "Rene Dekart, Frensis Bekon.",
+        "Galiley, Kant."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Global (umumbashariy) muammolarning asosiy xususiyati.",
+      "options": [
+        "Bir mintaqa xalqlariga xavf solishi.",
+        "butun insoniyatga xavf solishi va barcha xalqlar va davlatlar bilan hamkorlikda hal qilinishi.",
+        "bitta xalq taqdiri bilan bog’liqligi.",
+        "bir guruh xalqlar faoliyati bilan bog’liqligi."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Siyosat falsafasining markaziy mavzui…",
+      "options": [
+        "inson faoliyatining barcha qirralaridir.",
+        "Insonning ma’naviy faoliyati hisoblanadi.",
+        "Insonning siyosiy ongi, siyosiy faoliyatidir.",
+        "Moddiy hayot qirralaridir."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Monizm qanday ta’limot?",
+      "options": [
+        "Olamning asosi yakkayu yagona sababga, bitta asosga ega deyuvchi ta’limot.",
+        "Olamning asosida ko’p narsa va g’oyalar yotadi, deb e’tirof etadigan ta’limot.",
+        "Olamning asosida moddiy narsa yotishni e’tirof etadi.",
+        "Olamning asosida ruh yoki g’oyalar yotadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«Avesto»ning vatani…",
+      "options": [
+        "Qadimgi Farg’ona.",
+        "Qadimgi Xorazm.",
+        "Qadimgi Hindiston.",
+        "Qadimgi Misr."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Borliqning asosida tuproq yotadi, deb hisoblagan qadimgi davr mutafakkiri.",
+      "options": [
+        "Diogen.",
+        "Parmenid.",
+        "Zenon.",
+        "Ksenofan."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kalom ilmining aql maqomiga alohida e’tibor bergan Samarqandlik o’rta asr mutafakkiri.",
+      "options": [
+        "A.Yassaviy.",
+        "M. G’azzoliy.",
+        "Zamaxshariy.",
+        "Abu Mansur Moturidiy."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Xudo hamma narsalarda mavjud, hamma narsalar Xudoda mavjud deb hisoblagan G’arb uyg’onish davrining mutafakkiri kim?",
+      "options": [
+        "N.Kopernik.",
+        "Galiley.",
+        "N.Kuzanskiy.",
+        "Jordano Bruno."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nemis milliy falsafasi namoyondalarini aniqlang.",
+      "options": [
+        "Gobbs, Lokk.",
+        "Didro, Lometro.",
+        "I.Kant, Gegel.",
+        "Russo, Golbax."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "XIX asr oxiri ma’rifatparvarlik harakatining yirik namoyandalarini aniqlang.",
+      "options": [
+        "Yusuf Qorabog’iy, B.Mashrab.",
+        "So’fi Olloyor, Turdi Farog’iy",
+        "Mirzo Bedil, Muhammad Sharif Buxoriy.",
+        "Ahmad Donish, Furqat."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Harakatning eng oddiy shakli bu:",
+      "options": [
+        "fizik.",
+        "mexanik.",
+        "ximik.",
+        "biologik."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Vaqt …",
+      "options": [
+        "fizikaviy o’zgarishlarni aks ettiradi.",
+        "fazoviy o’zgarishlarni aks ettiradi.",
+        "hodisalarning ketma-ketligi, jarayonlarning davomiyligini ifodalaydi.",
+        "miqdoriy o’zgarishlar."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Qonunning falsafiy tushunchasi aks ettiradi:",
+      "options": [
+        "Ongdagi o’zaro aloqadorlikni.",
+        "faqat jamiyatdagi o’zaro bog’lanishlarni.",
+        "muhim bo’lmagan, tashqi bog’lanishlarni.",
+        "Narsa va hodisalarning muhim, zaruriy, umumiy takrorlanib turuvchi aloqadorliklarini."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sifat tushunchasining falsafiy mazmuni.",
+      "options": [
+        "narsalarning ichki va tashqi muayyanligi bo’lib, uning xossa, xususiyatlari birligini ifodalaydi.",
+        "predmetning hajmi, o’lchovi, og’irligi, harakat tezligini tavsiflaydi.",
+        "miqdor bilan birligini aks ettiradi.",
+        "eski sifatdan yangi sifatga o’tishni ifodalaydi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Inkorni-inkor qonuni bo’yicha taraqqiyot …",
+      "options": [
+        "chiziqlar tutashgan aylana shaklda bo’ladi.",
+        "vorissiz bo’ladi.",
+        "spiralsimon shaklga ega bo’ladi.",
+        "to’g’ri chiziqli bo’ladi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Narsa va hodisalardagi qismlar o’rtasidagi birlikni ifodalovchi falsafiy kategoriya?",
+      "options": [
+        "butun.",
+        "qism.",
+        "xususiylik.",
+        "shakl."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Yangi narsa, hodisa kelib chiqishini ifodalovchi muayyan shart-sharoit, vaziyat …",
+      "options": [
+        "voqelik.",
+        "tasodif.",
+        "zaruriyat.",
+        "imkoniyat."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Natijani zaruran kelib chiqishini ta’minlovchi hodisa …",
+      "options": [
+        "butun deyiladi.",
+        "qism deyiladi.",
+        "sabab deyiladi.",
+        "oqibat deyiladi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "O’zini bilish, baholash, tartibga solish qaysi noyob ma’naviy hodisaga xos?",
+      "options": [
+        "Tasavvufga.",
+        "o’z-o’zini anglashga.",
+        "idrokka.",
+        "sezgiga."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Voqelikni aks ettirish darajasiga ko’ra ijtimoiy ong … bo’linadi.",
+      "options": [
+        "axloqiy va diniy ongga.",
+        "siyosiy va huquqiy ongga.",
+        "san’at va ijtimoiy ongga.",
+        "odatiy (kundalik) va nazariy ongga."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ijtimoiy ong shakllaridan qaysi biri voqelikni (borliqni) ilmiy tushuncha, qonunlar , nazariyalar orqali aks ettiradi?",
+      "options": [
+        "axloq.",
+        "din.",
+        "fan.",
+        "siyosat."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inson bilishining bosqichlarini ko’rsating.",
+      "options": [
+        "hissiy va aqliy (mantiqiy) bilish.",
+        "sezgi, idrok, Tasavvuf.",
+        "tushuncha va xulosa.",
+        "hukm va xulosa."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Inson bilimlarining voqelikka muvofiqligini qaysi falsafiy tushuncha aks ettiradi?",
+      "options": [
+        "adolat.",
+        "erkinlik.",
+        "haqiqat.",
+        "tenglik."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Butun insoniyat tarixini uch davrga – agrar jamiyat, sanoat jamiyati va postindustrial jamiyat  (axborot jamiyati) ga bo’lgan olim.",
+      "options": [
+        "U.Rostou.",
+        "P.Sorokin.",
+        "K.Popper.",
+        "O.Toffler."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Huquqning mohiyati, ahamiyati, huquqiy ong va huquqiy faoliyatning o’zaro bog’liqlik jihatlarini o’rganadigan fan.",
+      "options": [
+        "huquq falsafasi.",
+        "qadriyatlar falsafasi.",
+        "madaniyat nazariyasi.",
+        "siyosat falsafasi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Miloddan avvalgi X asrdan eramizning VII –asrgacha davr mahsuli bo’lgan diniy-falsafiy ta’limot.",
+      "options": [
+        "buddaviylik.",
+        "moniylik.",
+        "zardo’shtiylik.",
+        "mazdakchilik."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Borliqning shakllari.",
+      "options": [
+        "moddiy va ijtimoiy borliq.",
+        "moddiy, ijtimoiy, ma’naviy.",
+        "moddiy va inson borlig’i.",
+        "materiya va modda."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Narsa va hodisalardagi o’zaro bog’lanish va eng umumiy aloqadorliklarni ifodalaydigan tushuncha …",
+      "options": [
+        "holat deyiladi.",
+        "kategoriya deyiladi.",
+        "xossa deyiladi.",
+        "munosabat deyiladi."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "G’arbiy Evropalik qaysi olim psixika ongsizlik, ong osti hodisalarini va ongning o’zidan iborat uch qatlamdan tashkil topgan deb hisoblagan?",
+      "options": [
+        "Xaydegger.",
+        "Freyd.",
+        "Ch.Pirs.",
+        "P.Sorokin."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Siyosat falsafasining markaziy mavzui…",
+      "options": [
+        "Inson faoliyatining barcha qirralaridir.",
+        "Insonning ma’naviy faoliyati hisoblanadi.",
+        "Insonning siyosiy ongi, siyosiy faoliyatidir.",
+        "Moddiy hayot qirralaridir."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Dastlabki falsafiy qarashlar.",
+      "options": [
+        "G’arbda paydo bo’lgan",
+        "Sharqda paydo  bo’lgan",
+        "G’arb va Sharqda bir paytda paydo bo’lgan",
+        "Germaniya, Yunonistonda paydo bo’lgan."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Xorazmda Ma’mun Akademiyasi qachon tashkil topgan ?",
+      "options": [
+        "1010 – yilda",
+        "1016 - yilda",
+        "1004 – yilda",
+        "1116 – yilda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Xorazm Ma’mun Akademiyasi qanday nomlangan ?",
+      "options": [
+        "«Dorul hikma va maorif»",
+        "«Bayt ul-hikma»",
+        "«Ma’mun Akademiyasi»",
+        "«Xorazm Akademiyasi»"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "O’zbekiston Respublikasida inson, uning huquq va erkinliklari hamda manfaatlari",
+      "options": [
+        "Ma’naviy qadriyatlardan biri.",
+        "Ma’naviy qadriyatlar tizimiga kiradi.",
+        "Huquqiy va siyosiy qadriyatlar birligini ifodalaydi.",
+        "Eng oliy qadriyat."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Odamlarning ongli faoliyati orqali amalga oshadigan harakat shakli bu:",
+      "options": [
+        "ijtimoiy harakat.",
+        "biologik harakat.",
+        "mehanik harakat.",
+        "fizik harakat."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Amaliyotda isbotlangan va sistemaga tushirilgan bilimlar yig’indisi:",
+      "options": [
+        "ilmiy faraz (gipoteza)",
+        "Induktsiya",
+        "ilmiy nazariya",
+        "dedektsiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Diniy dunyoqarashning asosini nima tashkil etadi?",
+      "options": [
+        "bilim kurtaklari",
+        "dunyoni anglash",
+        "imon",
+        "dunyoning tuzilishi xakida fantastik Tasavvuflar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Falsafiy dunyoqarash nimaga tayanadi?",
+      "options": [
+        "xissiyot",
+        "onglilik, intelektualik",
+        "dunyoni xis kilish",
+        "ishonch, e’tikod"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kadimgi yunistonda atomistik ta’limotning vakili kim edi?",
+      "options": [
+        "Anaksiman",
+        "Anaksimandr",
+        "Demokrit",
+        "Geraklik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kim dunyoning birlamchi asosi «apeyron» deb xisoblagan edi?",
+      "options": [
+        "Anaksiman",
+        "Demokrit",
+        "Geraklit",
+        "Anaksimandr"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "«Uzing-uzingni angla» iborasining muallifi kim?",
+      "options": [
+        "Epikur",
+        "Empedokl",
+        "Sukrot",
+        "Pifagor"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Sufizm diniy falsafiy ta’limoti nima asosda yuzaga kelgan?",
+      "options": [
+        "Xristianlik asosida",
+        "Budaviylik asosida",
+        "ob’ektiv idealizmgatayanib",
+        "Islom asosida"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "«Substantsiya» kategoriyasi nimani anglatadi?",
+      "options": [
+        "ongning amal kilishi",
+        "narsa xodisa jaraenlarening ichki birligi va turli-tumanligi",
+        "mikdor va sifatiy uzgarishlarning uzaro bir biriga utishi",
+        "fazo va vakt birligi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Materiya xarakatining kaysi shakli bir muncha murakkab va oliydir?",
+      "options": [
+        "mexanik",
+        "fizik",
+        "biologik",
+        "ijtimoiy"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Falsafaning funktsiyalari?",
+      "options": [
+        "siyosiy bilish",
+        "dunyoqarash, metodologik, tarbiyaviy",
+        "ma’naviy kvintessentsiya sifatida namoyon buladi",
+        "ijtimoiy tarakkiyot konuniyatlarini urganadi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Markaziy Osiyo Shark aristotelchilik yunalishining asoschilaridan biri kim ?",
+      "options": [
+        "Al-Kindiy",
+        "Nakshbandiy",
+        "Forobiy",
+        "Gazzoliy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20 asr falsafasidagi «Mavjudlik falsafasi» :",
+      "options": [
+        "neopifogorizm",
+        "neoplatanizm",
+        "esh gegelchilik",
+        "ekzistentsializm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "«Zijiy Jadid Kuragoniy» asarining muallifi kim?",
+      "options": [
+        "Beruniy",
+        "Ulugbek",
+        "Al-Xorazmiy",
+        "Ibn Sino"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«Xayot falsafasi» irratsional yunalishning assosini nima tashkil etadi?",
+      "options": [
+        "idrok",
+        "iroda",
+        "intuitsiya",
+        "akl"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Psixoanaliz ta’limotining asoschisi kim?",
+      "options": [
+        "D. Dyui",
+        "R. Avenarius",
+        "Z. Freyd",
+        "E. Max"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«Narsa uzida»  ni bilib bulmaydi deb kim aytgan edi?",
+      "options": [
+        "Volter",
+        "Gegel",
+        "I. Kant",
+        "Berkli"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Sensualizm bu shunday ta’limotki:",
+      "options": [
+        "akl-bilishning yagona manbai",
+        "Xudo tabiatdan tashkarida bumaydi, balki u bilan aynandir",
+        "sezgi bilishning yagona manbaidir",
+        "Xudo yagona substantsiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inkorni inkor kilishning asosiy xususiyatlari:",
+      "options": [
+        "borlikda yangi sifat xolati namoen bulishini kursatadi",
+        "tarakkiet jaraenining yunalishini tushuntiradi",
+        "tarakkiet jaraenining mixanizmini anglatadi",
+        "tarakkiet jaraenining mambaini anglatadi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dialektika bu shunday ta’limotki:",
+      "options": [
+        "rivojlanaetgan, uzgaruvchan borlik tugrisidagi ta’limotdir",
+        "olamni va uning konunlarini bilish",
+        "jamiyat ijobiy tarakkietini urganadi",
+        "ma’naviy kadriyatlar va madaniyat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Karama-karshilik bu:",
+      "options": [
+        "ayniyatning tafovutga utishi",
+        "barkarorlik va uzgaruvchanlik urtasidagi tafovutni aks ettiradi",
+        "ta’sirning aks ta’sirga aylanishi",
+        "ijtimoiy sistemadagi konfliktninng namoen bulishi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ziddiyat tushunchasi bu:",
+      "options": [
+        "konfliktli xolatlar vujudga kelishi disgormoniyasi, emirilishi omili",
+        "karama-karshi tomonlar urtasidagi tashki munosabatlarni aks ettiradi",
+        "formal logika konunlari jaraenining buzilishi",
+        "karama-karshi tomonlar urtasidagi uzaro munosabat"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Sifat va mikdor birligi va alokadorligini anglatuvchi tushuncha:",
+      "options": [
+        "struktura",
+        "kism",
+        "me’yor",
+        "konun"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Sakrash bu:",
+      "options": [
+        "barkarorlikning buzilishi",
+        "eski sifatdan yangisiga utish jaraeni",
+        "narsa va xodisalar me’erining buzilishi",
+        "bir narsaning ikkinchi narsaga aylanishi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Dialektik inkor bu:",
+      "options": [
+        "xarakat bir xolatdan ikkinchi xolatga utish jarayoni",
+        "odamlarning ishlab chikarish jaraenidagi uzaro alokadorligi",
+        "tabiat, jamiyat, bilishdagi uzgarishlar",
+        "destruktiv va konstruktiv uzgarishlar alokadorligining namoen bulishi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sintez bu:",
+      "options": [
+        "bir-birini inkor kiluvchi karama-karshi xususiyat va sifatlarning uzaro kushiluvidir",
+        "bilish faoliyati (Tasavvuf, tushuncha va boshkalar) elementlarining uzaro birikuviga olib keluvchi mantikiy operatsiyadir",
+        "analizga karama-karshi bulgan jarayon faoliyatidir",
+        "jamiyat, madaniyat va bilishdagi turli, bir-biri bilan rakobatdagiendashuv jaraeni, xodisalarining birikuvidr"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Rivojlanish tushunchasi bu:",
+      "options": [
+        "ob’ektlar va sistemalar yangilanishi va uzgarishlarini ifodalaydigan majmuaviy natijasidr",
+        "tabiat va jamiyatdagi zaruriy uzgarishlar jaraenidir",
+        "tabiat va jamiyatdagi narsa va xodisalarning bir-biriga utishi,bir-birini takozo kilish jaraenidagi progressiv va regrissiv uzgarishlardir",
+        "kuydan yukoriga karab boruvchi evolyutsiyasi jaraenidir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Fazo bu:",
+      "options": [
+        "narsa va xodisalarning fazoda mavjudligi",
+        "narsalar urtasidagi ketma ketlik",
+        "narsalarning kulamini anglatadi",
+        "narsa va xodisalarning urni, tartibi va ularning mavjudligini ifodalovchi kategoriyalardir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Metafizik ta’limot bu:",
+      "options": [
+        "olamning takomillashuvi xakidagi",
+        "rivojlanishni ziddiyatlarning paydo bulishi va xal kilinishi asosida ruy berishni tan olmaydigan diniy ta’limot",
+        "jamiyat tarakkietidagi uzaro takrorlanishni tan oluvchi",
+        "rivojlanishning fakat mikdoriy kupayishi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Materializmning tarixiy shakllari:",
+      "options": [
+        "sodda materializm, metafizik materializm, dialektik materializm",
+        "sodda materializm, vulgar materializm",
+        "dialektik materializm, tarixiy materializm",
+        "iktisodiy materializm, antropologik materializm, dialektik materializm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Evropa Uygonish davri falsafasining asosiy vakillari:",
+      "options": [
+        "Gegel, Feyrbax,Bruno",
+        "N. Kuzanskiy, A. Radihev, A. Donish",
+        "N. Kuzanskiy, N. Kapernik, J. Bruno",
+        "N. Kapernik, D. Berkliy, E. Max"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ijtimoiy ong darajalari:",
+      "options": [
+        "axlokiy ong, estetik ong, diniy ong, xukukiy ong, siesiy ong",
+        "siesiy ong, amaliy ong, ekologik ong",
+        "ijtimoiy idiologiya, nazariy ong",
+        "estetik, diniy, axlokiy ong"
+      ],
+      "correct": 2
+    }
+  ],
+  [
+    {
+      "question": "18 asr materializm vakillari:",
+      "options": [
+        "T. Gobbs, B. Spinoza, J. Lametriy, Sh. Spidoznik",
+        "F. Bikkon, D. Didro, J. Male",
+        "P. Golbax, J. Lokk, L. Karr",
+        "D. Didro, J. Lametriy, K. Gelvetskiy, P. Golbax"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Bilish jarayonning belgilari:",
+      "options": [
+        "Amaliet, xissiet, bilish",
+        "mantikiy bilish, induktsiya, deduktsiya",
+        "xissiy bilish, analiz, sintez",
+        "mantikiy bilish, model, modelllashtirish"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Agnostitsizm asosochisi bulgan ingliz faylasufi kim:",
+      "options": [
+        "Bekon",
+        "David Yum",
+        "Gobbs",
+        "Lokk"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19 asr Markaziy Osiyo ijtimoiy fikr vakillari:",
+      "options": [
+        "Mukimiy ,Donish, Furkat",
+        "Maxmur, Gulxaniy, Mukimiy",
+        "Navoiy, Bobur",
+        "Nakshbandiy, Kubro, Nizomiy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Yangi davr falsafasida mantikiy usulning asoschichi:",
+      "options": [
+        "Dekart",
+        "Spinoza",
+        "Bekon",
+        "Gelvetsiy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Yangi davr falsafasida emperik bilish usulining asoschisi:",
+      "options": [
+        "Dekart",
+        "Didro",
+        "F.Bekon",
+        "Leybnits"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Idealizmning turlari:",
+      "options": [
+        "pragmatizm, neotomizm",
+        "konventsionalizm sub’ektiv idealizm",
+        "ob’ektiv va sub’ektiv idealizm",
+        "ekzistentsializm ob’ektiv idealizm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Davlatning asosiy vazifalari:",
+      "options": [
+        "odamlarning munosabatlarini boshkarib borish",
+        "odamlarga gamxurlik kilish",
+        "xujallik muomalarini bajarish",
+        "tartib va intizom urnatish"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Stixiyali dialektika asoschisi:",
+      "options": [
+        "Demokrit",
+        "Levkipp",
+        "Geraklit",
+        "Platon"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Bilish bu:",
+      "options": [
+        "ob’ektiv dunyoning inson miyasida faol, maksadga muvofik in’ikos kilinishi",
+        "odam kurgani uz miyasida in’kos kilishi",
+        "sezgilar asosida kelib chikkan bilim",
+        "insonning oynadagi aksi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Madaniyat tushunchasining ma’nosi:",
+      "options": [
+        "moddiy boyliklar yigindisi",
+        "ma’naviy boyliklar yigindisi",
+        "insonlar tomonidan yaratilgan moddiy va ma’naviy boyliklar yigindisi",
+        "san’at, adabiyot, musika, til"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tsivilizatsiya tushunchasining falsafiy ma’nosi:",
+      "options": [
+        "jamiyat rivoji darajasini ifodalovchi tushuncha",
+        "moddiy tarakkiet darajasini ifodalash",
+        "moddiy va ma’naviy madaniyati yuksak rivojlangan jamiyat",
+        "akl-idrok, adolat va erkinlik xukmron bulgan jamiyat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kadriyatlar falsafiy tushunchasining ma’nosi:",
+      "options": [
+        "Moddiy boyliklar yigindisini ifodalovchi.",
+        "Odam uchun zarur bulgan barcha buyumlarni ifodaluvchi.",
+        "Ma’naviy kadriyatlar yigindisini ifodalovchi.",
+        "Buyum, xodisa va jaraenlarning odam uchun kerakligini ifodalovchi."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Filosofiya kaysi jamiyatda kelib chikdi?",
+      "options": [
+        "Ibtidoiy jamoada",
+        "Feodalistik jamiyatida",
+        "Kuldorlik jamiyatida",
+        "Feodalizmdan kapitalizmga utish davrida"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Farobiyning falsafiy karashlarini aniklang",
+      "options": [
+        "Idealizm va ponteizm",
+        "Panteizm",
+        "Panteizm va deizm",
+        "Metafizik materializm"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«Nazariya» tushunchasining ta’rifi",
+      "options": [
+        "Xulosalar yigindisi",
+        "Tushunchalar yigindisi",
+        "Sistemalashtirilgan va amaliy jixatdan asoslangan bilimlar yigindisi",
+        "Taxminlarga asoslangan bilim"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Emperik bilish shakllarni aniklang",
+      "options": [
+        "Kuzatish, ulchash, takkoslash, ekspriment",
+        "Mikdor, sifat, me’er",
+        "Sezgi, idrok, Tasavvuf",
+        "Farmalashtirish, tarixiylik va mantikiylik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Olamning paydo bulishi asosi «Xudo» keyin dunyo uz konunlari buyicha rivojlanishi ta’kilagan nazariyasi",
+      "options": [
+        "Nominalizm",
+        "Realizm",
+        "Deizm",
+        "Sxolastika"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Odamlar birligi sifati shaklida, millat kaysi jamiyatga kelib chikkan?",
+      "options": [
+        "Matriarxat",
+        "Patriarxat",
+        "Feodalizm",
+        "Materializm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Xarakatning ijtimoiy shakli",
+      "options": [
+        "Notirik tabiatdagi xarakat",
+        "Jonli tabiatdagi xarakat",
+        "Odamlar faoliyati orkali omolga oshadigan xarakat",
+        "«Sun’iy « tabiatdagi xarakat"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Determenizmning uziga xos xususiyatlari:",
+      "options": [
+        "sabab-okibat alokadorligini inkor kiluvchi ta’limot",
+        "sabab va okibatning alokadorligi tan oluvchi ta’limot",
+        "mazmuning yangilovchi axamiyatiga ega ekanligini tan oluvchi ta’limot",
+        "moxiyatning belgiluvchi axamiyatga ega ekanligini tan oluvchi ta’limot"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Dialektika konunlarini xususiyatlari.",
+      "options": [
+        "jamiyat tarixida kullanilishi",
+        "fizikada kullanilishi",
+        "eng umumiy konunlar",
+        "tabiatda kullanilishi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Idealistik dialektikaning asoschisi",
+      "options": [
+        "Lomonosov",
+        "Sukrot",
+        "Gegel",
+        "Platon"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Shark Renessansi falsafasining xususiyatlari",
+      "options": [
+        "ilmiy xarakterligi",
+        "sodda xarakterligi",
+        "materialistik xarakterligi",
+        "inson moxiyatini tushuntirib berishda gumanistik yunalish, sufizm, panteizm, deizm."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sezgi tushunchasi",
+      "options": [
+        "vokelikni in’ikos ettirishning oliy shakli",
+        "materiya xarakati",
+        "xotirlash jaraeni",
+        "ob’ektiv dunyoning sub’ektiv obrazi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ilmiy bashorat bu",
+      "options": [
+        "oldindan kura bilish, emperik va nazariy jixatdan asoslangan taxmin",
+        "rad kilib bulmaydigan anik bilim",
+        "kelgusida tuldiriladigan anik bulmagan bilimlar",
+        "EXM ning xossasi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Mantikiy bilish shakllari",
+      "options": [
+        "tushuncha, xukm, xulosa",
+        "sezgi, tushuncha, xukm",
+        "idrok, xulosa, xukm",
+        "tassavur, xukm, xulosa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tugri muxokamalarni ajrating:",
+      "options": [
+        "idealizm bu xayotda ideallashtirish axamiyatini asoslashga intilishidir",
+        "idealizm moddiylikni asoslovchi, goyalarni, ongni tan olishdir",
+        "idealizm bu goya fikrlarning realligini tan oishdir",
+        "idealizm bu xayotda uzok bulgan chegaralangan fakrlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Uzining aporiyalarida birinchi marta xarakatni nazariy jixatdan yuk kilishligini kursatgan kadimgi grek faylasufi:",
+      "options": [
+        "Zenon",
+        "Fales",
+        "Geraklit",
+        "Demokrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kaysi olim uz ta’limotida “ Inkorni-Inkor” konunidan foydalanadi?",
+      "options": [
+        "Gegel",
+        "Kant",
+        "Shelling",
+        "Fixte"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Maksadi kishini azobdan kutkazish bulgan shark falsafiy ta’limoti:",
+      "options": [
+        "buddizm",
+        "kofutstsianchilik",
+        "islom",
+        "zaroastrizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xamma kishilar baxtli bulishi mumkin degan davlat kontseptiyasini ishlab chikkan grek faylasufi:",
+      "options": [
+        "Demokrit",
+        "Sokrat",
+        "Platon",
+        "Aristotel"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Evropa uygonish devridagi tabiatning cheksizligi va dunyo yaratish mumkin emasligi xakidagi ta’limot",
+      "options": [
+        "naturfilosofiya",
+        "empirizm",
+        "irratsionalizm",
+        "daoizm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Dunyoqarashning nazariy tarkibi darajasini tashkil etadi:",
+      "options": [
+        "gnoseologiya",
+        "din",
+        "falsafa",
+        "sotsiologiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Inson moxiyatini eng avvalo tabiiy deb karavchi ta’limot:",
+      "options": [
+        "materializm",
+        "nominalizm",
+        "sotsializm",
+        "pragmatizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Inson moxiyatini ruxoniyatda deb karovchi ta’limot:",
+      "options": [
+        "spiritualizm",
+        "naturalizm",
+        "sotsializm",
+        "deizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Insonni sotsiologizatorlashtirishning talkini:",
+      "options": [
+        "jamiyatda millatlarning mavjudligi",
+        "inson ma’naviy va moddiy xayotining uzaro munosabati",
+        "insondagi ijtimoiy jixatni mutlaklashtirish",
+        "inson faoliyatining buzilishi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ong:",
+      "options": [
+        "vokelik in’kosining oliy shakli, miyaning xususiyati",
+        "imkoniyat va vokelikninguzaro munosabati",
+        "bazis va uskurmaning uzaro munosabati",
+        "tabiat va jamiyat konunlarini bilish"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Vakt nima?",
+      "options": [
+        "predmet va xodisalar uzunligini xarakterlaydigan materiya mavjdudligining usuli",
+        "vaktning uzunligi",
+        "xissiy kabullash okimi",
+        "ideal mavjudlik usulini ifodalovchi tushuncha"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ob’ektiv xakikat:",
+      "options": [
+        "fan takliflarining xissiy tajriba bilan kelishuvi",
+        "bilish ob’ektini sub’ekt tomonidan adekvat aks ettirish",
+        "shaxs ruxiy xolatining shakllari",
+        "tafakkurning abadiy va uzgarmas xossasi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tarakkietning yunalishini ochib beruvchi dialektika konuni",
+      "options": [
+        "karama-karshiliklar birligi va kurash konuni",
+        "mikdorning sifatga utish konuni",
+        "inkorni inkor kiluvchi konuni",
+        "moxiyat va xodisa"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Rus olimi V. I. Vernadskiy ishlab chikan kontseptsiya:",
+      "options": [
+        "neosfera va texosfera",
+        "fazo va vakt",
+        "biosfera va neosfera",
+        "materiya va xarokat"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tsivilizatsiyalashgan davlatlar darajasiga kursatilishda Uzbekistonning mustakil tarakkiet yuli?",
+      "options": [
+        "evolyutsion rivojlanish",
+        "inkilobiy sakrash",
+        "ma’muriy buyrukbozlik sistemasi",
+        "shok teropiyasi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Mutlak xakikat bu:",
+      "options": [
+        "inkor etilishi mumkin bulgan bilim",
+        "yangi davrda yuzaga kelgan diniy e’tikodlar",
+        "atrof muxitdan konkretligi bilan fark kilishi",
+        "uzgarishi va aniklanishi mumkin bulgan tulik bulmagan bilim"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«Avesto» bu:",
+      "options": [
+        "zardushtiylik dinining mukaddas kitobi",
+        "musulmonchilikning bosh mukaddas kitobi",
+        "kadimgi grek falsafasi moxiyatini ifodalovchi kitob",
+        "cherkov duolari yigindisi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xarakat falsafiy kategoriya sifatida kuyidagilarni bildiradi:",
+      "options": [
+        "tirik va notirik materiyadagi xar kanday uzgarish",
+        "atomlar va bushlik",
+        "jamiyat tarakkietida zaruriy xodisa xisoblangan ijtimoiy unsurlar",
+        "molekulalarning birikuvi va ajralishi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Deizm so’zining ma’nosi:",
+      "options": [
+        "lotin tilidagi «deus» so’zidan olingan bo’lib, «yaratuvchi» degan ma’noni anglatadi.",
+        "yunon tilidagi «deus» so’zidan olingan bo’lib, «mutlaq ruh» degan ma’noni anglatadi.",
+        "ingliz tilidagi «deus» so’zidan olingan bo’lib, «paydo bo’lish » degan ma’noni anglatadi.",
+        "nemis tilidagi «deus» so’zidan olingan bo’lib, «sig’inish» degan ma’noni anglatadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Deizm yo’nalishining mohiyati:",
+      "options": [
+        "Olamning asosiy mohiyatini materiya tashkil etib, uni ilk marotaba yaratuvchi sabab - «tabiat mashinasi» harakatga keltirgan va u olamning keyingi harakat va qonuniyatlariga aralashmaydi, uni faqat aql orqali bilish va payqash mumkinligini ilgari suradigan falsafiy dunyoqarash yo’nalish.",
+        "Olamning mohiyati ko’p narsalardan tarkib topganligini talqin etuvchi falsafiy dunyoqarash yo’nalishi.",
+        "Olamning mohiyati Mutlaq ruhdan tarkib topgan degan falsafiy dunyoqarash yo’nalishi.",
+        "Olamning mohiyati ikkita substantsiya: modda va ruhdan tashkil topganligini talqin etuvchi falsafiy dunyoqarash yo’nalishi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Deizm atamasini falsafa faniga kiritgan faylasuf:",
+      "options": [
+        "ingliz faylasufi, lord G. Cherberi.",
+        "nemis faylasufi G. Leybnits;",
+        "frantsuz faylasufi Lametri.",
+        "belgiyalik faylasuf I. R. Prigojin."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Deizm atamasini falsafa faniga kiritilgan yil:",
+      "options": [
+        "Haqiqat haqida risola», 1624 yil.",
+        "«Ruh haqida risola», 924 yil.",
+        "«Mohiyat haqida risola», 824 yil.",
+        "«Ofoq va anfus haqida besh risola», 1972 yil."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Filosofiya atamasining nominal ta’rifi:",
+      "options": [
+        "yunon tilidagi «philo» - «sevaman» va  «sophia» - «donolik, hikmat» so’zlaridan tarkib topgan bo’lib, «donishmandlikni sevish, hikmatsevarlik» degan ma’nolarni anglatadi.",
+        "lotin tilidagi «philo» - «sevaman» va  «sophia» - «donolik, hikmat» so’zlaridan tarkib topgan bo’lib, «donishmandlikni sevish, hikmatsevarlik» ma’nolarini anglatadi;",
+        "Falsafa - ob’ektiv borliq, jamiyat, inson va uning tafakkuri taraqqiyotining umumiy qonuniyatlarini o’rganadi.",
+        "arab tilidagi «philo» - «sevaman» va  «sophia» - «donolik, hikmat» so’zlaridan tarkib topgan bo’lib, «donishmandlikni sevish, hikmatsevarlik» ma’nolarini anglatadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining real ta’rifi:",
+      "options": [
+        "Falsafa - ob’ektiv borliq, jamiyat, inson va uning tafakkuri taraqqiyotining umumiy qonuniyatlarini o’rganadi.",
+        "Falsafa - ob’ektiv borliq, inson va uning tafakkuri taraqqiyotining umumiy qonuniyatlarini o’rganadi.",
+        "yunon tilidagi «philo» - «sevaman» va  «sophia» - «donolik, hikmat» so’zlaridan tarkib topgan bo’lib, «donishmandlikni sevish, hikmatsevarlik» degan ma’nolarni anglatadi.",
+        "Falsafa - insonning ob’ektiv olamga ilmiy - mantiqiy munosabatini o’rganadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining o’rganish ob’ektlari:",
+      "options": [
+        "ob’ektiv borliq, jamiyat, inson va uning tafakkuri.",
+        "ob’ektiv borliq, inson, tafakkur;",
+        "dialektika, sinergetika, metafizika, sofistika, eklektika;",
+        "borliq va uning rivojlanishi, dialektika, bilish nazariyasi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Filosofiya» so’zini birinchi marotaba fanning mustaqil nomi sifatida qo’llangan faylasuf:",
+      "options": [
+        "Aflotun",
+        "Fales.",
+        "Pifagor",
+        "Suqrot."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining ilmiy metodlari:",
+      "options": [
+        "dialektika, sinergetika, metafizika, sofistika, eklektika;",
+        "Materiya birlamchi - mi yoki ong - mi?  Bilishning borliqqa munosabati.",
+        "ontologiya, rivojlanish va bilish nazariyasi;",
+        "metodologiya, ontologiya, gnoseologiya, aksiologiya, praksiologiya, evristika, didaktika."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dialektikaning real ta’rifi:",
+      "options": [
+        "Dialektika - ob’ektiv borliq, jamiyat, inson va uning tafakkuri taraqqiyotini o’zaro qaramaqarshilik va umumiy aloqadorlik asosida o’rganadigan falsafa fanining tarixiy - ilmiy metodidir.",
+        "Dialektika - metafizika metodiga qaramaqarshi qo’yilgan ilmiy - tarixiy metoddir.",
+        "Dialektika - yunon tilidagi «dialektos» so’zidan olingan bo’lib, «suhbat, bahs, munozara» natijasida «haqiqatning ruyobga chiqishi» ma’nolarini anglatadi;",
+        "Dialektika - ob’ektiv borliqdagi narsa va hodisalarning paydo bo’lishi sabablari, tadrijiy o’zgarishi, rivojlanishi, bir holatdan boshqa holatga o’tishi kabi xususiyatlarini o’rganadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanida birinchi marotaba dialektika nazariyasini qo’llagan faylasuf:",
+      "options": [
+        "Geraklit.",
+        "Suqrot.",
+        "Aflotun.",
+        "Gegel."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dialektika metodining asoschisi:",
+      "options": [
+        "Suqrot.",
+        "Gegel.",
+        "Aflotun.",
+        "Geraklit."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sinergetika atamasining nominal ta’rifi:",
+      "options": [
+        "Sinergetika - lotin tilidagi «sinergiya» so’zidan olingan bo’lib «kelishuv, hamkorlik, hamjihatlik» degan ma’nolarni anglatadi.",
+        "Sinergetika - yunon tilidagi «sinergiya» so’zidan olingan bo’lib «kelishuv, hamkorlik, hamjihatlik» degan ma’nolarni anglatadi.",
+        "Sinergetika - hozirgi zamon yangi ilmiy tafakkur metodi bo’lib, olamning o’z - o’zini tashkil etishi, narsa - hodisalarning Fazo va Vaqtda uzluksizligi, ularning salbiy bog’lanishlar asosida mavjudligini ifodalaydi.",
+        "Sinergetika - hozirgi zamon yangi ilmiy tafakkur metodidir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sinergetika metodining real ta’rifi:",
+      "options": [
+        "Sinergetika - hozirgi zamon yangi ilmiy tafakkur metodi bo’lib, olamning o’z - o’zini tashkil etishi, narsa - hodisalarning Fazo va Vaqtda uzluksizligi, ularning salbiy bog’lanishlar asosida mavjudligini ifodalaydi.",
+        "Sinergetika - hozirgi zamon yangi ilmiy tafakkur metodidir.",
+        "Sinergetika - lotin tilidagi «sinergiya» so’zidan olingan bo’lib «kelishuv, hamkorlik, hamjihatlik» degan ma’nolarni anglatadi.",
+        "Sinergetika - yunon tilidagi «sinergiya» so’zidan olingan bo’lib «hamjihatlik» degan ma’nolarni anglatadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sinergetika metodining ilmiy kategoriyalari:",
+      "options": [
+        "Beqarorlik va barqarorlik, tartibsizlik va tartiblilik, xaos va kosmos, mutanosibsizlik va mutanosiblik, fluktatsiya, koevolyutsiya va ho kazo...",
+        "sabab va oqibat, mohiyat va hodisa, me’yor, struktura, sistema.",
+        "informatsiya, globallashuv, evolyutsiya",
+        "miqdor va sifat, induktsiya va deduktsiya, analiz va sintez."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Metafizika so’zining ma’nosi:",
+      "options": [
+        "yunon tilidagi «meta - keyin» va «fizika - tabiat» degan ma’nolarni anglatadi.",
+        "metafizika - olamning diniy g’oyalar asosida tahlil qiladigan metoddir.",
+        "metafizika - dialektika metodiga qarama - qarshi kurashgan noilmiy metoddir.",
+        "«Metafizika» - Aristotel asarining nomidir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Metafizika metodining mohiyati:",
+      "options": [
+        "metafizika - dialektika metodiga qarama - qarshi kurashgan noilmiy metoddir.",
+        "«Metafizika» - Aristotel asarining nomidir.",
+        "metafizika - olamning diniy g’oyalar asosida tahlil qiladigan metoddir.",
+        "yunon tilidagi «meta - keyin» va «fizika - tabiat» degan ma’nolarni anglatadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sofistika so’zining ma’nosi:",
+      "options": [
+        "ilm.",
+        "san’at.",
+        "hikmat.",
+        "hunar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sofistika metodining mohiyati:",
+      "options": [
+        "mantiqiy hiyla asosida bilib turib, xatoga yo’l qo’yish metodi",
+        "dialektikaga qarama qarshi noilmiy metod;",
+        "Suqrot falsafasiga qaramaqarshi metod.",
+        "so’z san’ati;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Eklektika metodining mohiyati:",
+      "options": [
+        "Tartibsiz, muayyan asosi bo’lmagan birlik, bir - biriga aloqasi bo’lmagan qarashlar, tamoyillar yig’indisi.",
+        "turli xil, hatto bir - biriga qarama qarshi g’oya, qarash va nazariyalarning “eng yaxshisi” ni tanlab olishga intilish usuli.",
+        "mantiqiy hiyla asosida bilib turib, xatoga yo’l qo’yish metodi.",
+        "dialektikaga qarama qarshi noilmiy metod;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining ilmiy muammolari:",
+      "options": [
+        "ontologiya, rivojlanish va bilish nazariyasi;",
+        "Materiya birlamchi - mi yoki ong - mi?  Bilishning borliqqa munosabati.",
+        "dialektika, sinergetika, metafizika, sofistika, eklektika;",
+        "metodologiya, ontologiya, gnoseologiya, aksiologiya, praksiologiya, evristika, didaktika."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining aniq va texnik fanlar tizimi bilan aloqadorligi:",
+      "options": [
+        "matematika, informatika, antropologiya, gistologiya, embriologiya, anatomiya, fiziologiya...",
+        "arxeologiya, oftalmologiya, kardiologiya.",
+        "sotsiologiya, tarix, grammatika, mantiq, etika, estetika, huquqshunoslik, madaniyatshunoslik, iqtisodiyot nazariyasi, pedagogika, psixologiya.",
+        "astronomiya, fizika, kimiyo, biologiya;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining astronomiya ilmi bilan bog’liqligi:",
+      "options": [
+        "koinot sistemasining paydo bo’lishi va mexanik harakat tufayli bog’liq.",
+        "mexanik va fizik harakat bilan bog’liq.",
+        "biologik harakat;",
+        "sotsiologik harakat bilan aloqadordir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining fizika fani bilan bog’liqligi:",
+      "options": [
+        "mexanik va fizik harakatlar asosida bog’liq.",
+        "mexanik harakatga aloqadordir.",
+        "fizik harakat bilan bog’liq.",
+        "biologik va sotsiologik harakatlar asosida aloqadordir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining kimyo fani bilan aloqadorligi:",
+      "options": [
+        "kimyoviy harakat asosida aloqadordir.",
+        "fizik harakat bilan bog’liq.",
+        "mexanik harakatga aloqadordir.",
+        "mexanik va fizik harakatlar asosida bog’liq."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining biologiya fani bilan bog’liqligi:",
+      "options": [
+        "biologik harakat asosida aloqadordir.",
+        "mexanik va fizik harakatlar asosida bog’liq",
+        "fizik harakat bilan bog’liq.",
+        "mexanik va sotsiologik harakatlar bilan aloqadordir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining sotsiologiya fani bilan bog’liqligi:",
+      "options": [
+        "sotsiologik harakat bilan bog’liq.",
+        "mexanik va sotsiologik harakatlar bilan aloqadordir.",
+        "biologik harakat asosida aloqadordir.",
+        "mexanik va fizik harakatlar asosida bog’liq."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining vazifalari:",
+      "options": [
+        "Metodologiya, ontologiya, gnoseologiya, aksiologiya, praksiologiya, evristika, didaktika.",
+        "dialektika, sinergetika, metafizika, sofistika, eklektika;",
+        "ontologiya, rivojlanish va bilish nazariyasi;",
+        "Materiya birlamchi - mi yoki ong - mi? Bilishning borliqqa munosabati."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining ontologik vazifasi:",
+      "options": [
+        "borliq va uning rivojlashish qonuniyatlarini o’rganish vazifasini o’taydi.",
+        "tabiat va texnika qonuniyatini anglatadi.",
+        "san’at va ijodnig mohiyatini bildiradi",
+        "bilish nazariyasining mazmun va mohiyatini o’rganadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining gnoseologik vazifasi:",
+      "options": [
+        "bilish nazariyasining mazmun va mohiyatini o’rganadi.",
+        "san’at va ijodnig mohiyatini bildiradi",
+        "olamni  bilish nazariyasi nuqtai nazaridan o’rganish vazifasidir.",
+        "borliq va uning rivojlashish qonuniyatlarini o’rganish vazifasini o’taydi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining aksiologik vazifasi:",
+      "options": [
+        "ma’naviy meros, madaniy meros va qadriyatlar tizimini o’rganish vazifasidir.",
+        "bilish nazariyasining mazmun va mohiyatini o’rganadi.",
+        "san’at va ijodnig mohiyatini bildiradi.",
+        "borliq qonuniyatlarini o’rganish vazifasini o’taydi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining praksiologik vazifasi:",
+      "options": [
+        "hayotda nazariya va amaliyotning o’zaro uyg’unlikda amalda tatbiq etish vazifasini o’taydi.",
+        "bilish nazariyasining mazmun va mohiyatini o’rganadi.",
+        "olamni ilmiy bilish nuqtai nazaridan o’rganish vazifasidir.",
+        "san’at va ijodnig mohiyatini bildiradi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining evristik vazifasi:",
+      "options": [
+        "olam to’g’risidagi bilimlar asosida yangi g’oyalar, kashfiyotlar va ixtirolar yaratish vazifasidir.",
+        "borliq qonuniyatlarini o’rganish vazifasini o’taydi.",
+        "ma’naviy meros, madaniy meros va qadriyatlar tizimini o’rganish vazifasidir.",
+        "bilish nazariyasining mazmun va mohiyatini o’rganadi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafa fanining didaktik vazifasi:",
+      "options": [
+        "tarbiyaviy vazifasidir.",
+        "olamni ilmiy bilish nuqtai nazaridan o’rganish vazifasidir.",
+        "ma’naviy meros, madaniy meros va qadriyatlar tizimini o’rganish vazifasidir.",
+        "olam to’g’risidagi bilimlar asosida yangi g’oyalar, kashfiyotlar va ixtirolar yaratish"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Diniy dunyoqarash ta’rifi:",
+      "options": [
+        "Olam va undagi narsa va hodisalarni diniy g’oyalar nuqtai nazardan tahlil qilishga asoslangan dunyoqarashning tarixiy turi.",
+        "Ob’ektiv olam va undagi narsa va hodisalani ilmiy bilish asosida nazariy va amaliy, ilmiy - mantiqiy va falsafiy nuqtai nazardan tahlil qilishga asoslangan dunyoqarash turi;",
+        "Olam va undagi narsa va hodisalarning mazmun - mohiyatini afsonaviy va badiiy nuqtai nazardan tahlil qilishga asoslangan dunyoqarash turi",
+        "Barcha savollar to’g’ri."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "At - Termiziy qalamiga mansub falsafiy fikrlar bayon etilgan asarni ko’rsating:",
+      "options": [
+        "Muqaddimat ul - adab,\nV. Irfon, Kulliyot.\nS. Bayon ul - kasb, Kitob al – furo’g’.\nD. Safinat ul – avliyo.\n\n318.\"Mashshoiya\" jarayoni qachon va qaerda paydo bo’lgan, uning asoschisi kim?\n\nA. Zardushtiylar davrida, Markaziy Osiyoda, Zaroastr,\nV. Iskandar Zulqarnayn davrida, Yunonistonda, Arastu.\nS. Movarounnahrda, arab istilosidan keyingi davrlarda Al - Xorazmiy, Al – Farg’oniy.\nD. Arabistonda, o’rta asrlarda, Al – Kindiy.\n\n319.Kalom falsafasi qaerda, qachon va kim tomonidan yaratilgan?\n\nA. 15 asrda Xo’ja Ahrori Valiy,\nV. 9 asrda, Markaziy Osiyoda, Abduxoliq  G’ijduvoniy,\nS. 14 asrda, Buxoroda, Bahovuddin Naqshband.\nD. O’rta asrlarda Arabistonda, Al – G’azzoliy.\n\n320.Tasavvuf falsafasida \"Shayxi valitarosh\" nomini kim olgan?\n\nA. G’ijduvoniy,\nV. G’azzoliy,\nS. Najmiddin Kubro.\nD. Ahmad Yassaviy.\n\n321.Bedil falsafaga kim yo’lidan borgan?\n\nA. Aflotun,\nV. Arastu,\nS. Suqrot.\nD. Anaksimandr.\n\n322.Sharq falsafasida \"insoni komil\" nazariyasiga kim asos solgan?\n\nA. Forobiy,\nV. Ibn Sino.\nS. Ibn Al - Arabiy.\nD. G’azzoliy.\n\n323.Sharq faylasuflaridan inson jonini nafis bug’ -\"buxori latif\"ga kim qiyoslagan?\n\nA. Forobiy.\nV. Ibn Sino,\nS. Navoiy,\nD. Bedil.\n\n324.18 asr frantsuz materialistlaridan ratsionalizm uslubiga kim asos solgan?\n\nA. Didro,\nV. Lametri.\nS. Gelvetsiy,\nD. Dekart.\n\n325. Bilishning empirik darajasidagi uslubini ko’rsating:\n\nA. Deduktsiya,\nV. Analiz,\nS. Formallashtirish.\nD. Sintez.\n \n326. \"Moduslar\" haqida kim ta’limot yaratgan?\n\nA. Lokk,\nV. Leybnits,\nS. Spinoza.\nD. Bekon.\n\n327.Monadalar tushunchasini kim fanga kiritgan?\n\nA. Lokk,\nV. Leybnits.\nS. Spinoza,\nD. Bekon.\n\n328.Monadalar tushunchasini kim yaratgan?\n\nA. Lokk,\nV. Leybnits.\nS. Spinoza,\nD. Bekon.\n\n329.Relyativizm nima?\n\nA. Dunyo sezgilar kompleksi deb o’rgatuvchi ta’limot,\nV. Sezgilar insonni tashqi olam bilan bog’lovchi vositadir.\nS. Ob’ektiv reallikni inson miyasida to’g’ri aks ettirilishini inkor etuvchi ta’limot,\nD. Inson bilishning nisbiyligi, shartliligi, sub’ektivliligi to’g’risidagi ta’limot.\n\n330. Skeptitsizm nima?\n\nA. Bilish sezilardan boshlanadi deb bilish;\nV. Sezgi va fikrlashni bilish jarayonining ikki mustaqil bosqichi deb bilish;\nS. Ob’ektiv olamning faqat sub’ekt ongida mavjudligini e’tirof etish;\nD. Bilimlarning aniq va to’g’ri ekanligiga shubha bilan qarash.\n\n331.  Tafakkur konunlari va usullari xakidagi fan bu -...\nA.   Mantik\nV.   Etika\nS.   Dialikteka\nD.   Tarix\n\n332. Agnostitsizm namoyondalarining asosiy goyasi kaysi javobda tugri kursatilgan?\nA.    Dunyoni anglash va bilish mumkin \nV.    Dunyoni bilib bulmaydi\nS.   Dunyoni fakat sezgilar orkali bilish mumkin\nD.   Dunyoni akliy bilish mumkin\n\n333. “Kategoriyalar” risolasi muallifi kim?\nA.    Aristotel\nV.      Sukrot\nS.      Ploton\nD.      Empidokil\n\n334. Kadimgi xind falsafiy maktablarining ikki guruxi kaysi javobda tugri kursatilgan ?\nA.     Astika va Nastika\nV.      Yoga va Vaysheshka\nS.       Vedanta,Sankxya\nD.       Nyaya va mimansa\n\n335. Konfutsiyning kaysi ta’limoti uning muxim ta’limotiga aylangan?\nA.      Osmon konuni\nV.      Tabiat –inson oshyoni\nS.      Jamiyatda davlatning urni\t \nD.      Ijtimoiy tabakalanish.\n\n336. Sufizmda tabiat va allox kanday talkin kilinadi?\nA.       Allox va tabiatni uzviy deb karaydi\nV.        Tabiat alloxdan ajralgan deb karaydi\nS.        Alloxning tabiatga befarkligini yoklaydi\nD.         Tabiatni Allox yaratgan bulsada, tabiatdagi uzgarishlar ob’ektiv deb karaydi.\n\n337. Ibn Sinoning fanlar klassifikatsiyasida barcha fanlarni kanday turkumlarga  ajratilgan?\nA.         Amaliyot fanlari va nazariy fanlar\nV.         Mantik va matematika  fanlari\nS.         Samo fanlari vaEr fanlari\nD.         Falsafa va matematika fanlari\n\n338. Strukturalizm suzining  lugaviy ma’nosi ?\nA.   Tuzilish,joylashish,tartib \nV.   Tartib,birikish",
+        "Kushilish,birikish\nS.   Fakat A vaB javoblar tugri\n\n339. Falsafada uzining mavjudligi uchun uzidan boshka xech narsaga muxtoj bulmagan birinchi asosga nima deyiladi ?\nA.    Substansiya\nV.      Reallik\nS.     Aktsedintsiya\nD.     Dalil\n\n340. Konflektologiya suzining ma’nosini  aniklang ?\nA.    Ziddiyat\nV.     Yomonlik\nS.     Yaxshilik\nD.     Tugri javob yuk\n\n341. Empirik bilim kaysi metodlar yordamida shakllanadi ?\nA.     Kuzatish va ekspriment\nV.     Mavxumlashtirish va kuzatish\nS.    Anketa va Surovnoma\nD.    Ekspriment va bayonnoma\n\n342. Kuyidagilardan  qaysi biri narsaning  boshka bo’linmaydigan zarrasini bildiradi ?  \nA.Element\nB.Sistema",
+        "Struktura",
+        "Butun"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kuyosh  tutilishini bashorat kila olgan faylasuf kim ?",
+      "options": [
+        "Fales",
+        "Anaksimandir",
+        "Anaksemin",
+        "Geraklit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "“Suxbatlar va muloxazalar” asrining  muallifi kim ?",
+      "options": [
+        "Platon",
+        "Arastu",
+        "Konfutsiy",
+        "Fales"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "“Demografik portlash “  deb nom olgan  usish  kachon yuz bergan ?",
+      "options": [
+        "20 asrda",
+        "19 asr urtalarida",
+        "19 asr oxirida",
+        "21 asrda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Metodning asosiy vazifasi nima ?",
+      "options": [
+        "Faoliyatni bilish va boshka shakllarni boshkaruvi",
+        "Tushunchalarni borlikda anglab etish",
+        "Shart- sharoitni nazorat kilish va kuzatish",
+        "Tushuncha,  muloxaza fikrni urganishdan iborat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ta’sirlanitrish ma’nosini anglatuvchi tushuncha bu-....?",
+      "options": [
+        "Fluktatsiya",
+        "Bifurkatsiya",
+        "Intutsiya",
+        "Eksperiment"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Karama –karshilik bu-...",
+      "options": [
+        "Narsa  va xodisalarning bir  xolatdan boshka xolatga utishi",
+        "Mikdor va sifat o’zgarishlarning bir-biriga utishi",
+        "Ob’ektiv dunyoning aksariyat yoki xatto barcha narsalari, xodisalari va jarayonlari buysunadi",
+        "Predmetning bir- birini istisno etuvchi va bir-birini nazarda tutuvchi xolatlardir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ikki yoki bir necha suxbat-...",
+      "options": [
+        "“Diolog”",
+        "“ Roman”",
+        "“Kissa”",
+        "“Diolog va roman”"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Pozitivizm vakillari to’g’ri kursatilgan javobni toping ?",
+      "options": [
+        "M. Shlik,R.Karnap, Kont",
+        "Kant ,,Gegel ,Rassel",
+        "Pirs, KONT,Moris",
+        "Vrigt,Gusserl ,Xaydegger"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sezgi a’zolari orkali olingan bilim bu-..",
+      "options": [
+        "Xissiy bilim",
+        "Ijodiy bilim",
+        "Ilmiy bilim",
+        "Barcha javoblar to’g’ri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nazariy tizimlarning falsifikatsiyalash  mezoni kim tamonidan taklif kilingan?",
+      "options": [
+        "Karl Popper",
+        "Karl Yaspers",
+        "Karl Bort",
+        "Bergson"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tushunish kanaka sharoitlarda sodir bo’ladi ?",
+      "options": [
+        "Uzaro aloka",
+        "Polilog ,uzaro mulokat",
+        "Baxs,monolog",
+        "Xamma javoblar to’g’ri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Futurologiya urniga kullash mumkin bo’lgan atamani toping ?",
+      "options": [
+        "“Futurum”",
+        "”Fotologiya “",
+        "”Fyutyurbil”",
+        "“Faitologiya”"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Bilishning negizini tashkil etuvchi asosiy tushunchalardan biri bu-...",
+      "options": [
+        "Amaliyot",
+        "Tarix",
+        "Sanoat",
+        "Adabiyot"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qaysi faylasuf “Davlatni boy va zodagon kishilar emas, balki ishning ko’zini biladigan okil odamlar boshkarishi lozim”, deb xisoblaydi?",
+      "options": [
+        "Sukrot",
+        "Platon",
+        "Arastu",
+        "Epikur"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Orkaga kaytmaslik va muayyan yunalishga egalik xos bo’lgan xarakat tipi nima deb ataladi?",
+      "options": [
+        "Progress",
+        "Turgunlik",
+        "Regress",
+        "To’g’ri javob yuk"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ijtimoiy axborotni uzlashtirish uchun nima kilish kerak ?",
+      "options": [
+        "Uni anglab olish va talkin kilish kerak",
+        "Anglab etish",
+        "Taxlil kilish va baxolash",
+        "Talkin kilish"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Bugungi kunda Rim klubiga nechta mamlakat arboblari a’zo ?",
+      "options": [
+        "47",
+        "37",
+        "42",
+        "31"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Texnooptimistik kayfiyati kachon kuchaygan ?",
+      "options": [
+        "1950-1960 –YILLAR",
+        "1980 –yillar",
+        "1940-1950-yillar",
+        "1970- yillar"
+      ],
+      "correct": 0
+    }
+  ],
+  [
+    {
+      "question": "Deizm atamasini falsafa faniga kiritgan olim ?",
+      "options": [
+        "Ingliz faylasufi ,lord G. Cherbi",
+        "Nemis faylasufi G.Leybnits",
+        "Frantsuz faylasufi Lametri",
+        "Belgiyalik  faylasuf I.R. Prigojin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qanday xakikatni bilish tarakkiyot jarayonida rivojlanib,uz chegarasi bo’lgan  mutlak xakikatga yakinlashadi ?",
+      "options": [
+        "Nisbiy xakikat",
+        "Obktiv xakikat",
+        "Sub’ektiv xakikat",
+        "To’g’ri javob Ava B"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xodisalar va xolatlar axamiyatini bevosita xis etish qanday nomlanadi ?",
+      "options": [
+        "Asos",
+        "Emotsiya",
+        "Ishonch",
+        "Shubxa"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ilmiy bilishdagi to’g’ri metodni Bekon nimaga kiyoslaydi ?",
+      "options": [
+        "Yulovchini yulini yoritadigan chirokka",
+        "Yuldan adashtiruvchiga",
+        "Botkoka botirishga",
+        "Insonga yordam beruvchi kuchga"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ijtimoiy falsafa bu-...ta’limot?",
+      "options": [
+        "Borlik xakidagi bilim",
+        "Jamiyat xakidagi ta’limot",
+        "Axlok xakidagi ta’limot",
+        "Ma’naviyat va axlok xakidagi ta’limot"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kelajakni bashorat qilish qobiliyatiga ega bo’lgan kishilarni Bobilliklar va Assuriyaliklar nima deb atashgan?",
+      "options": [
+        "Xoldeylar",
+        "Koxinlar \nV) Afsungarlar \nG) Bashoratchilar \n\n367.Bashoratning necha turi farqlanadi? \nA) 3 ta \nB) 2 ta \nV) 4 ta \nG) 5 ta \n\n368.Bashorat haqidagi bilimlar qaysi asrlarda tizimga solina boshlandi? \nA)  XV - XVII \nB) XVI – XVII \nV) XIV – XV \nG) XV – XVI \n\n369.Quyosh tutilishini bashorat qila olgan faylasuf kim? \nA)  Fales \nB) Anaksimandr \nV) Anaksimen \nG) Geraklit \n\n370.Lotinchada kelajak ma’nosini anglatuvchi  tushuncha?\nA) Futurologiya \nB) Prognostika \nV) Prognoz \nG) To’g’ri javob yo’q \n\n371.Prognostika nima? \nA)  Ijtimoiy bashorat bilan bog’lik tadqiqot \nB) Ijtimoiy jarayonlarni o’rganish \nV) O’rganilayotgan jarayonlarning qonuniyatlari \nG) A, B \n\n372.Insonning kundalik hayot tajribasiga, tabiat va jamiyatda u yoki bu vokeani tez-tez takrorlanishini bevosita kuzatishga asoslanadigan bashorat turini belgilang?\nA) Ilmiy bashorat \nB) Intuitiv bashorat \nV) Kundalik bashorat \nG) Yillik bashorat \n\n373.Aleksandra Filippovna Kirxgof qaysi buyuk shoirni hayoti haqida bashorat qilgan? \nA)  Pushkin \nB) Gyote \nV) Bax \nG) Brext \n\n374.Tarixda Lenin, Stalin, Gitler va Mussolini kabi shaxslarni paydo bulishini bashorat qilgan frantsuz tabibi kim? \nA) A.Eddi \nB) N.Kroyt \nV)  M.Nostradamus \nG) G.Filipp \n\n375.“Futurologiya” so’zini birinchi bo’lib fanga ishlatgan olim qaysi qatorda to’g’ri keltirilgan?\nA) A.Eddi \nB)  O.Flextgaym \nV) M.Nastradamus \nG) G.Filipp \n\n376.Aleksandr Pushkinga uning hayotidagi muhim burilishlar haqida bashorat qilgan shaxsni toping? \nA) A.F.Kirxgof \nB) N.Kroyt \nV) M.Nastradamus \nG) G.Filipp \n\n377.Futurologiya o’rniga qullanishi mumkin bo’lgan atamani toping?\nA) “fyutyuribli” \nB) “fotologiya” \nV) “futurum” \nG) “faitologiya” \n\n378.Ukrainalik faylasuf va shoir Grigoriy Skovorodaning vafot etgan qishloq nomi nima? \nA)  Ivanovka \nB) Odessa \nV) Vernyovka \nG) Zaparoje \n\n\n379.«Futurologiya» so’zining lug’aviy ma’nosi? \nA. lot. futurum – kelajak\nB. yunon. futurum – kelajak\nV. ing. futurum – kelajak\nG. fran. futurum – kelajak\n\n380.Prognoz qilish  bu...?\nA. Maxsus ilmiy metodlar yordamida kelajak haqida bilimlar olish jarayoni\nB. Tarixiy muddatlar va ularning hayotda gavdalanishi\nV. Kelajak haqidagi bilimlarni hozirgi davrdan uzoqlashtirish\nG. To’g’ri javob yo’q\n\n381.Pratogor, Suqrot, va Platon aytganidek falsafa bu - ... ?\nA. Ishontirish emas, to’g’ri fikrlash san’atidir\nV. Falsafa olamni bilish \nS. Umumiylikni o’rganuvchi fan\nE. Ishontirish o’rgatuvchi fan\n\n382.“Umumiy nisbiylik nazariyasi” ta’limotining asoschisi kim?\nA. Eynshteyn\nV. I.Nyuton\nS. N.Bor\nE. R.Ernest\n\n383.Fanning mohiyati bu - ...?\nA. Borliq to’g’risidagi ob’ektiv bilimlarni aniqlash Va tizimlashtirish\nV. Borliq to’g’risidagi sub’ektiv bilimlar\nS. Dalillarsiz aniqlash\nE. Hujjatlarni yig’ish \n\n\n384.Klassik mexanikaning qonunlarini qaysi olim ta’riflagan? \nA. I.Nyuton\nV. R.Dekart\nS. A.Eynshteyn\nE. N.Bor\n\n385.Ob’ektiv dunyoga va insonning undagi o’rniga, odamzotning o’zini qurshagan borliqqa va o’z-o’ziga bo’lgan munosabatiga nisbatan yondashuvlar tizimi, bu - ...\nA. Dunyoqarash\nB. Tafakkur\nV. Idrok\nG. Tasavvur\n\n386.Tarixan dunyoqarashning dastlabki shakllari qaysi javobda to’g’ri ko’rsatilgan?\nA. Mif va din\nB. Din va san’at\nV. San’at va mifologiya\nG. Poetika va lirika\n\n387.Fan yutuqlarini tan oladigan  va ijobiy baholaydigan ta’limotning nomi qaysi qatorda to’g’ri ko’rsatilgan?\nA. Stsientizm\nB. Gnostizm \nV. Pragmatizm\nG. Antistsientizm\n\n388.Homo sapiens, ya’ni aqlli odamlar tipi necha ming yil oldin vujudga kelgan?\nA. 40-60 ming yil\nB. 50-80 ming yil\nV. 30-70 ming yil \nG. 60-90 ming yil\n\n389.Dunyoni idrok etish bu? \nA. Atrof borliqni ideal obrazlarda tasavvur qilishdir\nB. Bu o’zini qurshagan dunyoni sezgilar yordamida hissiy idrok etish\nV. Inson o’zini tushunish\nG. Barcha javoblar to’g’ri\n\n390.“Oliy himmatlik vaziyatdan mohirona foydalanish: aql idrok bilan bog’langan sahovatlilik” fikr kimga tegishli? \nA) Platon \nB) Suqrot \nV) Epikur \nG) Demokrit \n\n391.“Do’stlik - birga yashashning zaruriy shartidir” ushbu jumla kimga tegishli? \nA) Arastu \nB) Platon \nV) Levkipp \nG) Iskandar \n\n392.“Odamlar seni bilmasliklaridan g’am chekma, o’zing odamlarni bilmasligingdan g’am chek” ushbu fikr kimga tegishli?\nA) Konfutsiy \nB) Lao Tszi \nV) Suqrot \nG) Arastu \n\n393.Milet maktab asoschisi kim?\nA) Fales \nB) Geraklit \nV) Demokrit \nG) Pifagor \n\n394.Anaksimen olam asosiga nimni qo’ygan? \nA) Havoni \nB) Suvni \nV) Tuproqni \nG) O’tni \n\n395.Olam asosiga apeyronni qo’ygan G’arb faylasufi kim?\nA) Anaksimandr \nB) Demokrit \nV) Platon \nG) Fales \n\n396.Anaksagor urug’larni nima deb atagan? \nA) Geomemeriyalar \nB) Geometriyalar \nV) Tsikloplar \nG) Ximeyralar \n\n397.Empidokl olov, havoni nima deb atagan? \nA) Efir \nB) Sfinks \nV) Xufu \nG) Xeops \n\n398.Zardushtiylikda borliqning substantsional asosi nima? \nA)  Olov \nB. O’t \nV. Tuproq \nG. Havo \n\n399.“Yuksak fazilatli inson bilan munosabatlarda hushmuomala bo’lishi, mamlakatni boshqarishda izchil bo’lishi lozim, ishda imkoniyalardan kelib chiqish, harakatda vaqtni hisobga olish… ” ushbu fikr muallifini toping? \nA. Lao Tszi \nB. Konfutsiy \nV. Farobiy \nG. Beruniy \n\n\n400. Falsafaning qaysi sohasida borliq va yo’qlik, mavjudlik va nomavjudlik muammolariga doir masalalar o’rganiladi?\nA.  Ontologiyada\nB. Gnoseologiyada\nV. Aksiologiyada\nG. Ijtimoiy falsafada \n\n401.«Borliq bor, yo’qlik esa – yo’q», degan fikr kimga tegishli?\nA. Parmenidga\nB. Platonga\nV. Suqrotga\nG. Zenonga\n\n402.Ontologiya tushunchasini falsafada birinchi bor kim qo’llagan?\nA. X. Volf\nB. D.Yum\nV. J.Berkli\nG. I. Kant\n\n403.Xar qanday jismning ajralmas xususiyati nima deb ataladi?\nA. Atribut\nB. Qism\nV. Individuallik\nG. Materiya\n\n404. «Ey darvesh, ulug’ olamning avvalu oxiri, zoxiru botini, mohiyat va shakllarini anglab yetish uchun o’zingning mohiyatingni, zoxir va botinigni anglab yetkin. Bundan boshqa yo’l yo’q. Ushbu fikr kimga tegishli?\nA) Axmad Farg’oniy\nB) Aziziddin Nasafiy",
+        "Alkindiy",
+        "Ar Roziy"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«Arfist qo’shig’i» qaysi davlat adabiyotining nodir asari xisoblanadi?",
+      "options": [
+        "Qadimgi Misr",
+        "Qadimgi Bobil",
+        "Qadimgi Shumer",
+        "Qadimgi Akkad"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qaysi yodgorliklarida tibbiy hodisalar moddiy ibtidosi haqida fikrlar bor. Ularda hamma narsalarning asosi suv, butun koinotda havo mavjud deyilgan.",
+      "options": [
+        "Qadimgi Bobil yodgorliklarida",
+        "Qadimgi Misr yodgorliklarida",
+        "Qadimgi Xitoy yodgorliklarida",
+        "Qadimgi Xindiston yodgorliklarida"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Jaynizm hindcha «jinna»so’zining manosi nima?",
+      "options": [
+        "«Ko’rinish»",
+        "«g’olib»",
+        "«Xabar»",
+        "«Malak»"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«kishi baxtiyor bo’lish uchun tabiat va uning qoniniyatlarini o’rganishi lozim.» kimning fikri?",
+      "options": [
+        "Ezop",
+        "Empidokl",
+        "Evklip",
+        "Epikur"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "«Narsalarning tabiati to’g’risida» nomli asari bilan mashhur bo’lgan faylasuf kim?",
+      "options": [
+        "Jovano Bokacho",
+        "Avreli Auvgustin",
+        "Lukresiy Kar",
+        "Kar Luchio"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Imom Al – Buxoriy qasi asarida hadislarda, ilohiy masalalardan tashqari insonlarning kelib chiqishi, jamiyat rivaojanishi uchun zarur omillar, davlatni boshqarish yo’llari, islom marosimchiligi, axloq-odob, ta’lim-tarbiya masalari keng yoritib berilgan.",
+      "options": [
+        "«Kitob at-tarix»",
+        "«Vasiyatnoma»",
+        "«Al jome’ as-saxix»",
+        "Buxoro tarixi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "O’zbekiston Respublikasi Prezidenti Shavkat Mirziyoevning kitobni nomini toping.",
+      "options": [
+        "Vatan ravnaqi uchun har birimiz masulmiz.",
+        "Tanqidiy tahlil qat’iy tartib-intizom va shaxsiy javobgarlik-har bir rahbar faoliyatining kundalik qoidasi bo’lishi kerak.",
+        "Jaxon moliyaviy iqtisodiy inqirozi uni O’zbekiston sharoitida bartaraf etish yo’llari choralari.",
+        "O’zbekiston XXI asr bo’sag’sida: xavfsizlikka tahdid, barqarorlik shartlari va taraqqiyot kafolatlari."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«Diniy ilmlarning tiriltirilishi» (Ixyoiy ulum-din) nomli asar kimga tegishli?",
+      "options": [
+        "Sulaymon Boqirg’oniy",
+        "Ahmad Yassaviy",
+        "Imom al-G’azzoliy",
+        "Abdulloh Ansoriy"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kopernik o’zining fanda tub o’zgarish yasagan qaysi ta’limoti bilan mashhur bo’lgan?",
+      "options": [
+        "Geliosentrik",
+        "Geyosentrik",
+        "Texnosentrik",
+        "Antroposentrik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Substansiya dunyoning birligini ifodalasa, modus dunyoning xilma-xilligini ifodalaydi. Bu kimning fikri?",
+      "options": [
+        "David Yum",
+        "Frensis Bekon",
+        "Benedikt Spinoza",
+        "Jon Lokk"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Maktab ta’limida hukmronlik qilgan va ilohiyatga to’la bog’liq bo’lgan o’rta asrlar xristian falsafasi bu",
+      "options": [
+        "Sxolastika",
+        "Materializim",
+        "Dialektika",
+        "Teosentirizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Rim klubining asoschisi va birinchi prizdenti bo’lgan shaxsni belgilang.",
+      "options": [
+        "Flyerbrix",
+        "Aurelli Pechchi",
+        "Bill",
+        "Reni Dekard"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kompyuter inqilobi bosqichiga kirgan jamiatning nomini to’g’ri ko’rsatilgan javobni toping",
+      "options": [
+        "Texnotron",
+        "EHM",
+        "Prognoztik",
+        "Industriea"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kim insonning eng muhim xususiyati o’ziga xos belgisi metafizk yoki jismoniy tabiati emas balki uning faoliyatidir deb qayd etadi",
+      "options": [
+        "Lappi",
+        "Kaxirin",
+        "Veber",
+        "Kant"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Faoliyatning tuzilishini to’g’ri ko’rsatilgan javobni belgilang",
+      "options": [
+        "Faollik, natija, maqsad",
+        "Ehtiyoj, motiv, maqsad, vositalar",
+        "Ehtiyoj ,faollik ,ahloq ,huquq",
+        "Ahloq ,huquq, natija"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Boqiylik, ilohiylik dunyoviylikning birligi deb kim ko’rstgan",
+      "options": [
+        "Avliyo Avgustin",
+        "Gegil",
+        "Dedro",
+        "Xaldun"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "“Inson uchun tarixdan judo bo’lish hayotdan judo bo’lish demakdir’’ deb kim aytgan",
+      "options": [
+        "Bahadirov",
+        "Islom Karimov",
+        "N. Jo’rayev",
+        "J.Tulinov"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "“Dunyoga keldumu, bozorga bordim ,kafanni oldimu mozorga bordim’’ushbu satrlar kimga tegishli",
+      "options": [
+        "Sheroziy",
+        "Jomiy",
+        "Avloniy",
+        "Navoiy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Falsafaning inson faoliyatini o’rganadigan bo’limini aniqlang",
+      "options": [
+        "Proksialogiya",
+        "Aksialogiya",
+        "Tealogiya",
+        "Fellologiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Faoliyatni tartibga solish mexanizmini ko’rsating",
+      "options": [
+        "Huquq-axloq",
+        "Siyosiy-ijtimoiy",
+        "Axloq-odob",
+        "Tartib- intizom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qarilik ifodasini kim insonga nisbatan biologik ma’noda ishlatgan",
+      "options": [
+        "I.A.Karimov",
+        "Beruniy",
+        "Q. Nazarov",
+        "Ibn Sino"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "F.Netshe tarix falsafasini qanday tariflagan",
+      "options": [
+        "Abadiy ortga qaytish",
+        "Hukumronlik",
+        "Inson taffakuri mahsuli",
+        "Inson hayoti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "“Ilohiy shahar’’asarini kim yozgan",
+      "options": [
+        "Braun",
+        "Farg’oniy",
+        "A.Avgustin",
+        "Gegil"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "“Hamonki biz bor ekanmiz,o’lim yo’q o’lim kelganda esa bizning o’zimiz yo’q bo’lamiz ’’ .Bu fikrlar  qaysi faylasufga tegishli",
+      "options": [
+        "Zenon",
+        "Lukritsiy Kar",
+        "Epikur",
+        "Arastu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "“O’zingga ravo ko’rmaganni o’zgaga ravo ko’rma” tamoili qaysi talimotga tegishli",
+      "options": [
+        "Konfutsiy",
+        "Duosezm",
+        "Legizm",
+        "Monism"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sharq va g’arb falsafasi nimaga qarab rivojlangan",
+      "options": [
+        "Umuminsoniy qadriyatlarga",
+        "Davlatlarga qarab",
+        "Mehnat taqsimotiga qarab",
+        "Qurollarning takomillashishiga qarab"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«Donishmand kim? – deb so’rashganda, u «Haqiqiy donishmand xudodir, biz donishmandlikni sevguvchilarmiz», - degan iborani kim aytgan.",
+      "options": [
+        "Diogen",
+        "Epikur",
+        "Demokrit",
+        "Evklip"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«Nasixatnoma» asarida odamlarni nima olishga, unga ixlos qo’yishga chaqiriladi.",
+      "options": [
+        "bilm",
+        "ilm",
+        "boylik",
+        "mexnat qurollari"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Dastlabki taqvim (kalendar), tibbiyotga doir asarlar qaerda paydo bo’lgani shu da’vatlarning dastlabki samaralari edi.",
+      "options": [
+        "Shumer Akkad",
+        "Misr",
+        "Bobil",
+        "Italia"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Upanishadlar falsafasining mohiyati shundaki,",
+      "options": [
+        "u jonni ruh bilan uzoqlashtrladi.",
+        "u jonni ruh bilan tenglashtiradi.",
+        "u jonni ruh bilan qo’shiladi.",
+        "u jonni ruh bilan almashtriladi."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Jaynizm (hindcha «jinna» - «g’olib») – eramizdan avvalgi 1-yillik o’rtalarida qadimgi Hindistonda yuzaga kelgan va olamning asosida nima yotadi, deb hisoblaydigan ta’limot.",
+      "options": [
+        "jon va rux",
+        "ikki ibtido: materiya va jon",
+        "suv va olov",
+        "tuproq va xavo"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Olamni osmon boshqaradi. Osmon irodasi-taqdirdir. Biz yashab turgan olam, undagi tartib osmon hukmdori tomonidan yuborilgan. Jamiyat hayotidagi tartibga qattiq amal qilish talab etiladi. Bu kimning fikri",
+      "options": [
+        "Konfusiy",
+        "laosizi",
+        "Zardusht",
+        "Moniy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dao qonuniga ko’ra olam nechta unsurdan tashkil topgan.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Milet shahrida yuzaga kelgan va rivojlangan. Milet maktabi vakillari Fales, Anaksimandr, Anaksmenlardir. Uning asoschisi kim",
+      "options": [
+        "Fales",
+        "Anaksimandr",
+        "Anaksmen",
+        "Levklip"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xamma narsa apeyrondan kelib chikadi va ma’lum bir vaktda apeyronga kaytadi.Deb kim aytadi",
+      "options": [
+        "Anaksmen",
+        "Anaksimandr",
+        "Arastu",
+        "Aflotun"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "«Tabiat haqida» asarlarining muallifi kim",
+      "options": [
+        "Ksenofont",
+        "Diogen",
+        "Pifagor",
+        "Aflotin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sofistlar qanday muamolari bilan shug’ullangan.",
+      "options": [
+        "antropologiya va gnoselogiya",
+        "preksiologiya va aksialogiya",
+        "kosmogoniya va antologiya",
+        "konfilktalogiya va leksikalogiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Harakat olam singari abadiydir. Kim aytgan.",
+      "options": [
+        "Epikur",
+        "Arastu",
+        "Aflotun",
+        "Suqrot"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Dunyodagi yovuzlik insonlarni boy va kambag’al bo’lishidir.  Shu tarzda jamiyatda ijtimoiy adovatlarga qarshi kurash insonlar o’rtasida turli urushlar, bir-birlarini ko’ra olmasliklar yuzaga keladi. Kimni talimotida aytilgan.",
+      "options": [
+        "Muqanna",
+        "Zardusht",
+        "Moniy",
+        "Mazdak"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "«Baxt-saodatga erishuv haqida» degan risolasida to’xtalib, hayvonni ikki xil nom bilan ataydi. Birinchisi, hayvoniy, ikkinchisi, madaniy hayvon yoki insondir, deydi. Kim fikr bildiradi.",
+      "options": [
+        "Forobiy",
+        "Alkindiy",
+        "Zamzxshariy",
+        "Beruniy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Materiya 4 unsurdan tashkil topgan. Materiya doim harakatda, u vaqt va fazo bilan bog’liqdir. Deb kim aytgan",
+      "options": [
+        "Ibn Sino",
+        "Forobiy",
+        "Alkindiy",
+        "Xorazmiy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qaysi talimot  ilohiy ishq haqida etirof  etadi.",
+      "options": [
+        "iudaizim",
+        "katolisizm",
+        "buddizim",
+        "tasavuf"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Gnos\u001ftika, apologetika, patristika, realizm, nominalizm va boshqa oqimlar qaysi davr falsafasining qiyofasini belgilaydi.",
+      "options": [
+        "Yangi davr",
+        "o’rta asr",
+        "Qadimgi davr",
+        "Eng  yangi davr"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Xudo ruh sifatida yovuzlikda mutlaqo sof, inson esa o’z tabiatining ruhiy jihati bilan xudoga moslashgan.",
+      "options": [
+        "apologetika",
+        "gnostisizm",
+        "patristika",
+        "realizm"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A. Baumgarten «Estetika» nimani o’rganadigan fan deb tavsirlagan edi?\nQHissiy bilish shakllarni o’rganuvchi;\n-Axloqsizlikni;\n-Tubanlikning namoyish bo’lishini;\n-Sanatning paydo bo’lishini;\n\n440.G.Gegel «Estetika» fani predmetini nima tashkil etadi deb ko’rsatadi?\nQGo’zallik qonunlari;\n-Badiiy ijod;\n-Ulug’vorlik;\n-Tafakkur;\n\n441.Qaysi kategorya nafosatning bosh xususyati hisoblanadi?\nQGo’zallik;\n- Ulug’vorlik;\n- Hajviylik;\n- Fojiaviylik;\n\n442.Estetika qaysi fanga tayangan  holda o’zining g’oyaviy-mafkuraviy, ijtimoiy siyosiy maqsadlarini shakllantiradi?\nQ Psixologiyaga;\n- Sosiologiyaga;\n- Pedagogikaga;\n- Axloqshunoslikka;\n\n443.«Estetika»ning falsafiy fan ekanligi qanday xususiyati bilan belgilanadi?\nQ Borliqni estetik o’zlashtirish;\nQ Inson mohiyatini o’rganish;\n- Gumanitar fanlar uchun dasturilamal ahamiyatga egaligi;\n- Falsafiy kategoryalardan foydalanish;\n\n444.Qadimgi yunon faylasuflaridan qaysi biri barcha narsalarning mohiyatini raqam(son)lar tashkil etadi, deb uqtiradi?\nQ Pifagor.\n- Geraklit\n- Suqrot.\n- Aflotun.\n\n445. Arastuning fikricha nafosat (go’zallik) asosini nima tashkil etadi?\nQTartibligi, muvofiqligi, yaxlitligi;\n- Dunyoviy goya;\n- Raqam(sonlar)ning cheksizligi;\n- Insonning ruhiy   olami;\n\n\n\n446. Arastuning qaysi asarida estetikaning masalalari haqida fikr yuritiladi?\nQ«Poetika».\n- «Kategoryalar».\n-«Topika».\n- «Siyosat».\n\n447.«Katarsis» (ruhiy poklanish) tushunchasini yunon faylasuflarining qaysi biri birinchi bo’lib qo’llagan?\nQAristotel\n- Platon.\n- Demokrit.\n- Suqrot.\n\n448.G.Gegel o’zining qaysi asarida sanatning maqsad va vaziflarini tahlil qiladi?\nQ «Estetika bo’yicha maruzalar». \n- «Ruh falsafasi».\n- «Tabiat falsafasi».\n- «Huquq falsafasi».\n\n449.Gegelning fikricha qaysi sanat yo’nalishi haqiqiy, mukammal deb qaraladi?\nQ Klassisizm;\n- Romantizm;\n- Simvolizm;\n- Realizm;\n\n450.«Mezon ul avzon» asrining muallifi kim?\nQ Alisher  Navoiy.\n- Abduraxmon jomiy.\n- Bobur.\n- Lutfiy.\n\n451. I.Kant qaysi asarida o’zining estetik qarashlarini bayon etadi?\nQ «Ulug’vorlik va go’zallik tuyg’ulari ustida kuzatishlar».\n- «Amaliy aqlning tanqidi».\n- «Muhokama tanqidi».\n- «Falsafada mantiqiy tushunchasi».\n\n452. Dizayn bu?\nQ Obektni badiiy-estetik loyhalash;\n- Sanatning  bir turi;\n- estetik ong shakli;\n- Badiiy metod;\n\n453.Estetik qonunlar bu?\nQ estetik ong unsurlarining o’zaro bog’lanishi\n- Narsa, hodisalarning o’zaro zaruriy bog’lanishi;\n- Ijod  jarayoni, estetik faolyatining muhim bog’lanishlari;\n- Sanat asarlarining estetik metod asosida yaratilishi;\n\n454.Badiiy ijod bu?\nQ Sanat asarlarining yaratilishi \n- estetik ong faolyati;\n- Sanat asarini idrok etish;\n- Tafakkurga asoslangan ijod;\n\n455.Quyida keltirilganlarning qaysi biri estetik bilishning xususiyati?\nQ Refleksiv, yani subektning o’z-o’ziga qaratilganligi; \n- Rasionallik, sof aqliylik; \n- Sof hissiylikka asoslanish;\n- Modellashtirish.\n\n456.«Umuminsoniy g’oyalarning emosional his-tuyg’uli in’ikos ettirilishi» ongning qaysi shakllariga taalluqli?\nQ estetik ongga \n- Siyosiy ongga;\n- Axloqiy ongga;\n- Huquqiy ongga;\n\n457. Estetik ong unsurlarning qaysi biri bevosita jamiyat manaviy hayotining tarkibiy qismi sifatida amal qiladi?\nQ estetik g’oya, nazarya;\n- estetik ehtiyoj;\n- estetik his-tuygu;\n- estetik did;\n\n458.Jamiyat estetik ongining muhim xususiyati bu?\nQ estetik ideal, nazarya tarzidaligi;\n- Mafkuraviyligi;\n- Gnoseologiyaviy  ahamiyatliligi;\n- Hech qaysi;\n\n459.Shaxs estetik ongining  boshlang’ich unsuri bu?\nQ estetik his-tuyg’u;\n- estetik nazarya;\n- estetik ideal;\n- estetik did;\n\n460. estetik qadriyat bu?\nQ Nafosat qimmatiga ega qariyat;\n- Moddiy qadiryat;\n- Kishi ehtiyojini qondiradigan qadriyat;\n- Milliy  qadriyat;\n\n461.Estetik munosabat bu?\nQ Insonning obyektga estetik subekt tarzidagi munosabati \n- Insonning borliqqa munosabati;\n- o’zini-o’zi bilishga qaratilgan munosabati;\n- Ijtimoiy munosabati;\n\n462.estetik baho bu?\nQ Qadriyatlarning manaviy qimmatini baholash\n- Qadriyatlarning ijtimoiy ahamiyatini baholash ;\n- Qadriyatlarning milliyligini baholash;\n- Qadriyatning moddiy qimmatini baholash;\n\n463.Kishining narsa, hodisalardagi nafosatlilik jihatini idrok etish va baholash estetik ong unsurining qaysi biriga taalluqli?\nQ estetik did;\n- estetik ideal;\n- estetik ehtiyoj;\n- estetik nazariya;\n\n464.Kishining obektga moddiy manfaatdorlikdan xoli bo’lgan intilishi estetik ongning qaysi unsuri uchun xos?\nQ estetik ehtiyoj;\n- estetik nazarya;\n- estetik ideal;\n- estetik did;\n\n465.estetik ehtiyojning shakllanishi, rivojlanishi bevosita qaysi estetik ong unsuri bilan bog’liq?\nQ estetik his-tuyg’u;\n- estetik nazarya;\n- estetik did;\n- estetik ideal;\n\n466.Nafosatlilik, go’zallikdan zavqlanish tuyg’usi bevosita qaysi estetik ong unsuriga xos?\nQ estetik his-tuyg’u;\n- estetik nazarya;\n- estetik ideal;\n- estetik did;\n\n467.estetik ong unsurlarining qaysi biri bevosita tafakkur shakllari—tushuncha, xulosa chiqarish shakllarida ifodalanadi?\nQ estetik nazarya;\n- estetik ehtiyoj;\n- estetik his-tuyg’u;\n- estetik  ideal;\n\n468.estetik ong unsurlarini muayyan sistema tarzida yaxlitlashtiruvchi kategorya bu?\nQ Nafosat (estetiklik);\n- Ulug’vorlik;\n- Go’zallik;\n- Fojiaviylik;\n\n469.Mehnatning o’ziga xos turi bo’lib, bunda estetik-badiiy qadriyatlar yaratiladigan faoliyat bu?\nQ estetik faoliyat;\n- Ilmiy faoliyat;\n- Texnik faoliyat;\n- Ijodiy faoliyat;\n\n470. Sharq mutafakkirlaridan kim birinchi  bo’lib tasavvufni falsafiy—estetik jihatdan talqin qilgan?\nQ G’azzoliy.\n- Ibn Rushd.\n- Farobiy.\n- Ibn Sino.\n\n471.Uyg’unlik(garmoniya) nima?\nQ Narsa va hodisalarning muayyan fazo va vaqtdagi shakl va mazmun birligi, ichki mutanosibligi, yaxlit sistema tarzida mavjudligini ifodalaydigan kategoriya; \n-Tashqi dunyo bilan insonning o’z-o’zini anglashi;\n-Insonning maqsad, manfaat va ehtiyojining muvofiq mutanosib kelishi.\n- Borliqning rivojlanishi konuni. \n\n472.Uyg’unlik qanday xususiyat va belgilarga ega bulganda o’zaro muvofiqlashadi? \nQMe’yor, yaxlitlik, go’zallik; \n- Moslik, birikkanlik, ulug’vorlik;\n- Proporsionallik, muvozanatlilik;\n- Aniklik, sistemalilik, mukammallik;\n\n473.Rossiya fanlar akademigi A.A.Xusenovning ta’kidlagan bita manbadan tarqalgan 3ta nur nomi tugri ko’rsatilgan javobni belgilang.\nQ Xaqiqat, ezgulik, go’zallik;\n- Ezgulik, mehnatsevarlik, adolat;\n- Yovuzlik, adolatsizlik, xunuklik;\n- Tug’rilik, go’zallik, epchillik;\n\n474.Islom dining mukaddas kitobi Qur’oni Karim sura va oyatlarida Allox taolo nimaning timsoli- mukammal zot sifatida qayd etiladi?\nQ Xaqiqat;\n- Ezgulik;\n- Go’zallik;\n-  Xamma javoblar to’g’ri;\n\n475.Abu Nasr Forobiy fikricha, inson Xudo bilan qanday munosabatda fozil bo’la oladi?\nQ Jisman va ruxan uyg’unlikka erishgan paytdagina;\n- Ruxan va kalban uyg’unlikka erishgan paytdagina; \n-  Ong va qalb uyg’unligiga erishilgan paytdagina;\n- Jisman va qalban uyg’unlikka erishgan paytdagina;\n\n476.Abu Rayxon Beruniyning «Javoxirot»(minerologiya) asari mazmunan qanday g’oyalar bilan sug’orilgan?\nQ Axloqiy –estetik g’oyalar;\n- Siyosiy g’oyalar;\n- Bunyodkorlik g’oyalari;\n- Diniy g’oyalar;\n\n477.Abu Rayxon Beruniy o’zining «Javohirot»(minerologiya) asarida eng noyob javohir deb ko’rsatgan qatorni belgilang.\nQ Inson;\n- Oltin;\n- Kumush;\n- Yoqud.\n\n478.Quyidagilarning qaysi biri san’atning sintetik (qorishiq) tuzimiga kiradi?\nQTeatr\n-Badiiy adabiyot\n-Musiqa\n-Me’morchilik \n\n479.Quyidagi san’at turlarining qaysi biri fazo (makon) o’lchovlari asosida ijrok etiladi?\nQMe’morchilik \n-Musiqa\n-Badiiy adabiyot\n-Qo’shiq\n\n480. I.Kant   nimani  inson ruhida tugiladigan,  uni   jumbushga  keltiradigan his-tuyg’u  deb  tushuntiradi?\nQ Ulug’vorlikni \n-Go’zallikni \n-Estetiklikni \n- Uyg’unlikni \n\n481. Go’zallik kategoriyasining mohiyati falsafaning qaysi kategoriyasi orqali anglashiladi?\nQShakl va mamun\n-Zaruriyat va tasodif\n-Imkniyat va voqyelik\n-Sabab va oqibat\n\n482.Aristotelning fikricha, go’zallikning xususiyatlari bu –\nQSimmetriklik, mutanosiblik\n-Me’yor, takrorlanuvchilik\n-Cheksizlikning cheklanganligi\n-O’zgaruvchanlik\n\n483.Abu Nasr Forobiy o’zining qaysi asarida go’zallikni uning muqobil qutbi-xunuklik bo’yicha ta’riflaydi?\nQ«Aflotun qonunlari mohiyati»\n-«Ixso-alulush» («Ilmlarning kelib chiqishi»)\n-«Arastufalsafasi»\n-«Inyersan’ati»\n\n484.San’atning polifunksionlik tabiatini belgilaydigan jihat bu –\nQIntegrativ vazifani bajarishligi\n-Voqyelikni badiiy obrazda aks ettirishi\n-Estetik ong shakli ekanligi\n-Ko’p turga egaligi\n\n485.Ulug’vorlik kategoriyasi haqidagi dastlabki nazariy fikrlarni bayon etgan kim?\nQ Psevdo-Longin\n- Fales\n- Suqrot\n- Aristotel\n\n486.Abu Nasr Farobiyning fikriga ko’ra, “boyning boyligini bezab, kambag’alning kambag’alligini yashiradigan” narsa bu?\nQichki go’zallik\n-tashqi go’zallik\n-ulug’vorlik\n-go’zallik\n\n487. “Avesto” da ezgulik, haqiqat va go’zallik timsoli sifatida kimni tasvirlaydi?\nQAhuramazda\n-Ahiraman\n-Mitra\n-Mey\n\n488. Insondagi go’zallik uning qanday hususiyatlari bilan belgilanadi?\nQ hulqi, odobi, ahloqiy fazilatlari bilan\n-tashqi ko’rinish bilan\n-hulqi, odobi\n-his tuyg’ulari bilan\n\n489.Qaysi alloma go’zallik va ulug’vorlikni uyg’unlikda rivojlantiruvchi tushuncha deb  tariflagan?\nQE.Byork\n-N.Kant.\n-F.Hyegel\n-F.Shilder\n\n490.Xitoy estetikasida  ”shan”,  “mey”  atamasining qanday ma’noni bildiradi?\nQGo’zal, ezgu\n-Yaxshi, yomon\n-Kuy, musiqa\n-Qo’shiq, matn\n\n491.Inson-butun bir olam “faqat undagi asosiy tuyg’u-…bo’lsa  bas,, (F.M. Dostoyeviskiy)\nQhis-tuyg’u\n-faraz\n-qobiliyat\n-olijanoblik\n\n492.Barcha qadimgi xalqlar qatori missirliklar  ham  go’zallikni hayotda  deb  bilganlar va uni quyosh mabudi siymosida ulug’langanlar. Quyosh mabudini qaysi nom bilan ataganlar?\nQAnaxita\n-Voch\n-Aton \n-Agushayya\n\n493.,,Aslida muxabbat-go’zalikni maqullashdir”  degan fikr mualifi kim?\nQFarobiy\n-Quronda  aytilgan\n-Horasiya aytgan\n-Ibn Sino  ,,Ishq risolasi”da aytilgan\n\n494.Abu Ali ibn Sino go’zallikning substansiyaviy asosini eng oliy tuyg’u tashkil etadi, bu tuyg’u…?\nQehtiros\n-Ishq-muhabbat\n-yaxlitlik, birlik\n-Uyg’unlik,  mutanosiblik\n\n495.Estetika fanining markaziy mezoniy kategoriyasi qaysi hisoblanadi?\nQGo’zallik\n-Fojiaviylik\n-Ulug’vorlik\n-Tubanlik\n\n496.Estetika haqidagi ma’ruzalar” asari kimning qalamiga mansub?\nQI.Kant\n-Gegel \n-Platon\n-Aristotel\n\n497.”Dunyoni go’zallik qutqaradi” degan fikr qaysi faylasufga tegishli?\nQM.Dostoyevskiy\n-Suqrot\n-I.Kant\n-Aristotel\n\n498.Komediya janrdagi asarlar qatorini toping\nQ“Tanobchilar”, “Kelinlar qo’zg’aloni”*\n-Mehrobdan chayon”\n- “O’tgan kunlar”\n-«kki eshik orasi»\n\n499.”yumor” so’zining lug’aviy ma’nosi?\nQyumor(lot-kulgu)*\n-Yumor(ing-kayfiyat)\n-yumor(rus-baxs)\n-yumor- xursandchilik\n\n500.Tragediya janri ifodalangan qatorni toping.\nQJaloliddin Manguberdi , M.Ulug’bek\n-Tanobchilar\n-O’tgan kunlar\n-Kelinlar kuzgoloni\n\n501.Ulug’vorlik-bu?\nQ yuksak hayratlanish tuyg’usi\n- insonni sevintiradigan tuyg’u\n- qo’rquv,vahima tuyg’usi\n- nafrat\n\n502.Tubanlik –bu?\nQ kuchli nafrat tuyg’usi\n- axloqiy me’zon\n- insonparvarlik\n- xunuklik\n\n503.estetik tarbiyaning tarkibiy qismi nima?\nQbadiiy tarbiya;\n-radio, televizor ko’rish;\n-jismoniy tarbiya;\n-barcha javoblar to’g’ri\n\n504. Axloqshunoslik(Etika) faniga    kim  asos  solgan ?                                                                                         QArastu.                                                                                                       \n-Aflotun.              \n-Demokrit.                                                                                                                                                                                           - Gegel .  \n\n505. “Axloq”  so’zi  qaysi  so’zdan  olingan  va  qanday  ma’noni  anglatadi?                                                                   Q arabchadan  olingan  bo’lib, ’’xulq’’ so’zining  ko’plik  ma’nosi.                                                                        \n - yunonchadan  olingan  bo’lib,  ’’xulq’’   ’’odob’’  ma’nosini  anglatadi                                                                                      -  forschadan  olingan  bo’lib,   ’’odob’’  manosini  anglatadi.                                                                                      \n- arabchadan  olingan,  bo’lib  ’’odob’’  degan   ma’noni anglatadi                                                                                           \n\n506. lk axloqiy qarashlar  qachon  vujudga  kelgan   va  kimlar  tomonidan ?                                                                                                                     Q 3,5 ming  yil  avval  SHumerliklar  tomonidan.                                                                                                                        -  4,5 ming  yil  avval   Arablar  tomonidan.                                                                                                                                                              -  2,5  ming yil  avval   Bobilliklar  tomonidan.                                                                                                                                            -  1,5  ming  yil  avval  Misrliklar  tomonidan                                                                                                                    \n\n507. Axloqshunoslik  o’z  mohiyatida  qanday  tushunchalarni  qamrab   oladi ?                                                                              Q  odob,  xulq,  axloq.                                                                                                                                                                     -  odob  , xulq.                                                                                                                                                                            -  xulq ,  axloq .                                                                                                                                                                        -  odob,  axloq.                                                                                                                                                                                            \n\n508. Estetika  so’zini  fan  sifatida  birinchi  bo’lib kim  iste’molga  kiritgan ?                              \nQ Aleksandir Boumgarten.                                                                                                                       \n -Arastu .                                                                                                                                                               \n- Suqrot.                                                                                                                                                                      \n - Platon                                                                                                                                                                            \n\n509.  Axloqning  tarkibiy elementlariga  nimalar  kiradi?                                                                             \n-normalar,qadriyatlar, idieallar.                                                                                                                                                      Q ideallar,odob,axloq.                                                                                                                                                                                                              -xulq, odob axloq.                                                                                                                                                   \n-normalar,xulq, odob.                                                                                                                                                              \n\n510. Qadimgi davr axloqiy tafakkuri  qaysi davlatlarda yuksak taraqqiyot bosqichiga ko’tariladi?               \nQHindiston, Xitoy, Yunoniston                                                                                                                                                     -Pokiston,Mesopatamiya Misr                                                                                                                                               -Hindiston,Pokiston,Yunoniston                                                                                                                                           -Misr, Xitoy, Koreya                                                                                                                                                                               \n\n511.  Yangi davr estetikasiga qaysi asrlar kiradi?                                                                                                                  QXVII-XIX asrlar ,                                                                                                                                                                                             -XVII-XIX asrlar                                                                                                                                                                                 -XX-XXI asrlar boshlari                                                                                                                                                                    -XV-XVIII asrlar                                                                                                                                                                                  \n\n512.  Hamma narsaning  mezoni ’’inson’’ degan qarash  asoschisi kim?                                                                            QProtagor                                                                                                                                                                                          -Sokrat                                                                                                                                                                                -Aristotel                                                                                                                                                                         -Aflotun                                                                                                                                                                                    \n\n513.  Axloq   tamoyillari ?                                                                                                                                                                                 QInsonparvarlik, javonmardlik, erkparvarlik ,vatanparvarlik                                                                                               - Axloq ,odob ,burch vijdon                                                                                                                                  \n - muhabbat , insonparvarlik , axloq                                                                                                                                                - Kamtarlik, odob  axloq                                                                                                                                                             \n\n514. Axloqiy  meyorlar ?                                                                                                                                                                  QRostgo’ylik, xushmuomalalik, kamtarlik.                                                                                                                              - I nsonparvarlik , erkparvarlik, axloq ,odob .                                                                                                         \n- muhabbat,  burch , kamtarlik axloq.                                                                                                                                                     - Rostgo’ylik, burch, kamtarlik, insonparvarlik.                                                                                                                                   \n\n515. Axloqiy madaniyat    tuzilmasi  qanday  tarkibiy  qismlardan  iborat ?                                                                               Qmuomila odobi, etiket kasbiy odob .                                                                                                                      \n- axloqshunoslik, axloqiy tarbiya  etiket.  \n- xulq, odob, axloq.\n- axloqiy ong, axloqiy munosabatt                                                                                                                                     \n\n516. ’’ Sof   aqlning  tanqidi ’’  nomli asar kimniki?                                                                                                                         Q I.Kant                                                                                                                                                                                                                -Platon                                                                                                                                                                                                 -Gegel                                                                                                                                                                                                   - Arastu                                                                                                                                                                                                  \n\n517. “Ulug’vorlik  va  go’zallik qarashlarimizning paydo  bo’lishliligi  haqidagi, falsafiy  tadqiqotlar “  nomli asar   kimniki ?                                                                                                                                                               \nQ Arastu                                                                                                                                                                                  - E. Byork                                                                                                                                                                                  - A.Navoiy                                                                                                                                                                                        - Gegel                                                                                                                                                                                                                                                                     \n\n518. Nemis   mumtoz e  estetikasining   asoschisi kim?                                                                                                        Q Immanuel  Kant                                                                                                                                                                     -Pifagor                                                                                                                                                                               - Arastu                                                                                                                                                                                     - Deni  Didro                                                                                                                                                                             \n\n519. Axloq   tushunchasi  o’z   ma’nosiga ko’ra nechta   tushunchadan  iborat ?                                                                                                                                                                                                                                                                                                                      Q3 ta                                                                                                                                                                                     -4 ta                                                                                                                                                                                            - 5 ta                                                                                                                                                                                               - 2 ta                                                                                                                                                                                       \n\n520.  Vedachilik  ta’limotiga ko’ra ,  jamiyat nechta  tabaqaga  bo’linadi?                                                                                         Q 4  t ga                                                                                                                                                                                    -  5 taga                                                                                                                                                                                                                                                            -  3   taga                                                                                                                                                                                   - 12  taga                                                                                                                                                                                                                                                                                        \n\n521. Axloq  tuzilmasi  nechta  tarkibiy  qismdan  iborat?                                                                                                                           Q 3 ta                                                                                                                                                                                         - 5 ta                                                                                                                                                                                         - 4 ta                                                                                                                                                                                                  - 11 ta                                                                                                                                                                                       \n\n522. Etika  nomi 1-bo’lib  qayerda  qo’llangan?                                                                                                       \n Q Yunonistonda                                                                                                                                                  \n-Angliyada                                                                                                                                                            \n- Avstraliyada                                                                                                                                                            \n-Hindistonda                                                                                                                                                                          \n\n523. ’’Aslini olganda axloq –ma’naviyatning  o’zagi ’’deya  kim fikr bildirgan?                                                                         QI. A Karimov                                                                                                                                                                                -  Arastu                                                                                                                                                                     \n-Aflotun                                                                                                                                                                                           - Epikur                                                                                                                                                                                                              \n\n524.  Oilaning   vazifalari  qaysilar                                                                                                                                                   Q Nikoh, farzand   tarbiyasi, mol-mulkka egalik qilish.                                                                                                                               - Nikoh,  farzand tarbiyasi.                                                                                                                                                             -Diniy nikoh,  farzand tarbiyasi.                                                                                                                                           -  Huquqiy nikoh,  mol-mulkka egalik qilish.                                                                                                                                                        \n\n525. Nikohning    ko’rinshlari........                                                                                                                                                        QAxloqiy nikoh,  huquqiy nikoh ,  diniy nihoh,                                                                                                                  -  Axloqiy va huquqiy nikoh                                                                                                                                                                                     - Diniy va huquqiy  nikoh                                                                                                                                                                 - Nikoh ,  farzand  tarbiyasi                                                                                                                                                                                               \n\n526. Axloqiy   madaniyat   ko’rinishlari?                                                                                                                                                 Q Barcha  javoblar  to’g’ri                                                                                                                                                 -  Kasbiy  odob                                                                                                                                                                                                  -Etiket                                                                                                                                                                                                     -Muomala odobi                                                                                                                                                                                   \n\n527. Kantning qaysi  asari estetikaga  oid hisoblanadi?                                                                                                                                                                      Q  ’’Sof aqlning tanqidi ’’    ’’Muhokama   qobilyatining    tanqidii’’                                                                                              -’’ Fozil  odamlar  shahri ’’                                                                                                                                                                                                                     - ’’Poetika’’,   ’’Zafarnoma  ’’                                                                                                                                     \n-’’Javohirit’’,     ’’Devohi hikmat ’’                                                                                                                                           \n\n528. Estetik his tuyg’u  asosida nima paydo bo’ladi?                                                                                                                                                          QEstetik ehtiyoj                                                                                                                                                                                              -estetik ong                                                                                                                                                                        - estetik     did                                                                                                                                                 \n-estetik faoliyat                                                                                                                                                                        \n\n529.  Axloqning    negizini  donishmandlik tashkil etadi deb kim aytgan?                                                                                                                    Q  Suqrot                                                                                                                                                                              -  Kanfutsiy                                                                                                                                                                                    -  Aflotun                                                                                                                                                                                     -  Demokrit                                                                                                                                                                          \n\n530.  ’’Davlat’’,     ’’ Siyosat ’’   kimning   asari?                                                                                                                                Q  Aflotun                                                                                                                                                                                    -  Demokrit                                                                                                                                                                            -  Suqrot                                                                                                                                                                                   - Kanfutsiy                                                                                                                                                                               \n\n531. A.Yassaviy  qaysi pandnoma asarida,  axloqiy qarashlar  teran falsafiylik bilan  yo’g’rilgan deb aytadi ?                                                                                                                                                                                                                                                                     Q’’Devoni  hikmat ’’                                                                                                                                                            -  ’’Zafarnoma ’’                                                                                                                                                                    -  ’’Hindiston’’                                                                                                                                                                     - ’’Javohirot ’’                                                                                                                                                                                                 \n\n532. Estetik did bu………….                                                                                                                                                                   Q   Bu kishilarning  go’zallik, uning barcha ko’rinishlarida namoyon  bo’lishdan,  ruhiy  ma’naviy   lazzatlanish qobiliyatidir .                                                                                                                                                                                -   Estetik ong   unsurlari  mazmunining   falsafiy  umumlashgan, tizimlashgan  shakildagi  ifodasidir.       \n- Estetik   qadiryatlarning  orzu qilingan, talab darajasidagi  obraz  tasavvurlarini aniq hissiy  shaklda  ifodalovchi ong  unsuridir.                                                                                                                                                      \n  -    To’g’ri  javob  yo’q                                                                                                                                                                                                                                                                                                                                                        \n\n533.  Kim  ’’Musiqa –bu ruhiy  tabiatning  davosi ’’   deb    ta’kidlaydi ?                                                                                                                         Q Abu Ali Ibn Sino                                                                                                                                                                     -   Farobiy                                                                                                                                                                               -  Abu Rayhon Beruniy                                                                                                                                                           - A, Navoy                                                                                                                                                                                    \n\n534.  Qaysi faylasuf estetika atamasini falsafa fanidan ajratib alohida  mustaqil fan sifatida shakllanishiga asos solgan?                                                                                                                                                       QA,G.Baumgarden                                                                                                                                                              - G.F.Gegel                                                                                                                                                                                    -  I.Kant                                                                                                                                                                                           -  to’g’ri javob yoq                                                                                                                                                                 \n\n535. Estetiklik xususiyatlari bu                                                                                                                                    QNafosatlilik                                                                                                                                                                 \n -Etiket                                                                                                                                                                                   -  Hayot                                                                                                                                                                               -  Borliq                                                                                                                                                                                      \n\n536.   ‘’Did’’   borasida  bahslashmaydilar”-bu    kimning  so’zi?                                                                                                                     Q  I  Kant                                                                                                                                                                                 - Aristotel                                                                                                                                                                                             -  Suqrot                                                                                                                                                                             -   Beruniy                                                                                                                                                                                                    \n\n537. Axloqiy tarbiyaning   tamoyillari                                                                                                                                                     Q  Namunaviylik ,   o’z-o’zini tarbiyalash,    uzluksizlik                                                                                                                 -   Manaviy     moddiy                                                                                                                                                                     -   Oila,   tarbiya  ,muassalari                                                                                                                                                   -  Mehnat   sa’nat                                                                                                                                                                          \n\n538.  ‘’Olloh  go’zal  va u  go’zallikni  sevadi’’  qaysi manbada aytiladi                                                                                        QQuronda                                                                                                                                                                                       -  Avestoda                                                                                                                                                                                    -  Poetikada                                                                                                                                                                                          -  Estetikada                                                                                                                                                                                   \n\n539.  Tasavvuf  estetikasiga oid   ‘’Devoni   kibir’’ (Ulug’  devon)  asarining muallifi  kim                                        \nQ Jaloliddin  Rumiy                                                                                                                                                             - G’azzoliy                                                                                                                                                                                              -  Farobiy                                                                                                                                                                                                                   - Abu  Rayhon  Beruniy                                                                                                                                                              \n\n540.  ”Go’zallik  ko’rish  va  eshitish  orqali his qilinadigan  har  qanday  yoqimlilikdir”  kimning  so’zi  \nQ Platon                                                                                                                                                                                - Aflotun                                                                                                                                                                                                           - Aristotel                                                                                                                                                                             - Suqrot                                                                                                                                                                                                \n\n541.  “Poetika”  asarining  muallifi  kim                                                                                                                            QAristotel                                                                                                                                                                                           -  Aflotun                                                                                                                                                                                                       -  Suqrot                                                                                                                                                                                                            -   Platon                                                                                                                                                                                       \n\n542.  Axloq-  bu mohiyatan….                                                                                                                                                                                 Q  Insof va  adolat  tuyg’usi                                                                                                                                                                             -  Kishining  hatti-harakati                                                                                                                                                                 -   Urf-odatlarga  rioya  qilish                                                                                                                                                                             -   Odobning  bir ko’rinishi                                                                                                                                                                                                                                                                                                                \n\n543.  Adolat bu…….                                                                                                                                                                                  Q  Arabcha   odillik                                                                                                                                                                                      -   Arabcha tinchlik                                                                                                                                                                               -  Forscha   yaxshilik                                                                                                                                                                            -  Forscha insof qilish                                                                                                                                                                  \n\n544.  ’’Fozil odamlar  shahri’’ kimning  asari?                                                                                                               Q    Abu   Nasr Farobiy                                                                                                                                                                         -  Ahmad Yassaviy                                                                                                                                                                                            -  Abu Ali Ibin Sino                                                                                                                                                                                                 - Bahouddin Naqshbandiy                                                                                                                                           \n\n545.   Axloq   bu  keng    manoda…..                                                                                                                                                      Q  Ijtimoiy  ongning  o’ziga  xos  shakli  bo’lib  u  ijtimoiy  va  individual  dunyoqarash    shakli \n-  Kishining   shaxs  sifatidagi   boshqalar  bilan     bo’lgan  munosabati                                                                         -  Kishining  individ   sifatida   milliy   urf-  odatlari  doirasidagi  axloqiy  meyorlarga  amal  qilish  bilan  bog’liq  hatti- harakat                                                                                                                                                                      -  To’g’ri   javob  yoq                                                                                                                                                                                                                                                           \n\n546.  Konfutsiylik  ta’limotida asosiy  axloqiy qonun tushuncha  nima?                                                                  \nQ  Insoniylik                                                                                                                                                                                                         -Vatanparvarlik                                                                                                                                                                              - To’g’rilik                                                                                                                                                                                  - millatparvarlik                                                                                                                                                                                                                                     \n\n547. Fojeaviylik   sa’natning    qaysi   turida   ifodalanadi?                                                                                                      Q  Tragediya                                                                                                                                                                                                    -  Melodramma                                                                                                                                                                                -   Komediya                                                                                                                                                                                             -   Dramma                                                                                                                                                                                      \n\n548. Estetik   fikr  tarixida  ……   go’zallik   va   xunuklik   ,   ulug’vorlik  va   tubanlik ,    soxta   bemanilik    va  haqiqat  o’rtasidagi   qarama -  qarshilikning   natijasi   sifatida    tariflanadi   \nQ  Kulgililik                                                                                                                                                                                    -   Fojeaviylik                                                                                                                                                                                                       -  Jasorat                                                                                                                                                                                       -  Xunuklik                                                                                                                                                                                  \n\n549. Borliqdagi   narsa  hodisalarning   shakl   va  mazmun  uyg’unligi   mukammalligi   va  insonning   ularga   bo’lgan   ma’naviy    ruhiy  lazzatlanishi  bilan   shartlanadigan   munosabati  ifodalanadigan  kategoriya                                                                                                                                                                                Q Go’zallik                                                                                                                                                                                 -   Xunuklik                                                                                                                                                                                          -  Ulug’vorlik                                                                                                                                                                                                    -  Voqeilik                                                                                                                                                                                     \n\n550.  ’’Dilda yashaydigan  qonun ’’ bu ?                                                                                                                             Q    Vijdon                                                                                                                                                                                 -  Burch                                                                                                                                                                                       -  Nomus                                                                                                                                                                                              -  Muhabbat               \n        \n551. Nikohning dastlabki shakli yani guruhiy nikoh bu…..?                                                                            \n-QEkzogamiya                                                                                                                                                                    -Poligeniya                                                                                                                                                           \n  -Poligamiya                                                                                                                                                                    -Poliondriya                                                                                                                                                                 \n\n552.  Platonning   fikricha   go’zallik  bu?                                                                                                                                              Q Go’zallik  ko’rish va eshitish  orqali  his  qilinadigan  har qanday yoqimlilikdir.                                                                                                                                   -  Hamma narsaning  mezoni  inson,                                                                                                                                                     - Go’zallik – bu  xudo,                                                                                                                                                                                      - Go’zalilik –bu bizning ruhimizda , qoniqish,zavqlantira  oladigan , tuyg’ularni qo’zg’ata oladigan, hissiyot qisimlarining o’zaro  uyg’unlashishi  va joylashishidir.                                                                                                                                                         \n\n553, “Odam  va  shayton”  she’ri  qaysi  shoirga  mansub\nQ  Erkin Vohidov \n -  Abdulla  Oripov \n -  O’tkir  Hoshimov \n- Mutal Burhon \n\n554. Muhabbatning  obyekiti  nima? \nQ  qo’zallik  \n-  Inson                                                                                                                                                                                                 -  Nafosat\n- Ezgulik\n\n555.   Ulug’vorlikning  jamiyat  va  inson  hayotida  namoyon  bo’lishining  qarama-qarshi  qutubi nima?  \nQ Tubanlik  va  pastkashlik  \n-  Ulugvorlik – fojiaviylik  \n- Yaxshilik  va  yomonlik \n-  Ezgulik  va  yovuzlik\n\n 556. Tafakkurning shakllari deb nimaga aytiladi?\nQfikrning simvollar, belgilar sistemasida ifodalanganligi;\n- fikr mazmuning til shaklida ifodalanish usuli;\n- fikrning (ichki) strukturaviy tuzilishi;\n- fikr mazmuni kismlarining o’zaro bog’lanish usullari.\n\n557. Mantiq fani nimani o’rgatadi?\nQ to’g’ri fikr yuritishning (tafakkurning) asosiy qonun va\nshakllarini;\n- tafakkur taraqiyotinig qonunlarini;\n- xulosa chiqarish va uning usullarini;\n- isbot va inkor etish nazariyasining qonun va shakllarini.\n\n558.  Mantiq fani bevosita qaysi fan bilan bog’liq?\nQ grammatika (tilshunoslik).\n- psixologiya;\n- pedagogika;\n- etika va estetika\n\n559. Shakliy mantiq (formalashgan mantiq) fani predmeti;\nQ tafakkurning shakllari va qonunlari;\n- ruhiyat;\n- tafakkurning paydo bo’lishi, rivojlanishi;\n- isbot va inkor etish nazariyasining mantiqiy asoslari.\n\n560. Dialektik mantiq fani nimani o’rgatadi?\nQ tafakkurning mazmuni, rivojlanish qonunlarini; \n- xulosa chiqarish va uning asosaiy qonun, qoidalarini; \n- tafakkurning shakl va qonunlarini; \n- tafakkur va tilning dialektik birligini.\n\n561.  Fikrning chinligi bu:\nQuning voqyelikka mos kelishi; \n- uning til shakllarida to’g’ri ifodalanish ; \n- uning tushuncha , muhokamaga mos kelishi; \n- uning muhokamalari shaklida ifodalanishi.\n\n562. Forobiyning qaysi asarida mantiq faniga ta’rif beriladi?\nQ «Mantiq ilmiga kirish»;\n- «Mantiq to’g’risidagi risolaga muqaddima»;\n- «Aql to’g’risida»;\n- «Xitoba».\n\n563. Tafakkur qonunlari deb nimaga aytiladi?\nQ fikr elementlarining ichki, zaruriy, muhim bog’lanishlari;\n- to’g’ri xulosa chiqarishning qonunlarini;\n- muhokama yuritishning zarur talablarini;\n- isbot va inkor etishning eng muhim prinsiplarini;\n\n564. Matematik mantiq fanining asoschisi:\nQ Leybnis.;\n- Arastu;\n-Aflotun;\n- Pifagor.\n\n565. Ayniyat qonunning talabi:\nQHar qanday fikr muhokama jarayonida aynan teng bo’lishi  kerak;\n- Ikki fikr bir vaqtda, munosabatda mazmunan teng bo’lishi kerak;\n- Ikki qarama-qarshi fikr hajmi va mazmun jihatdan mos bo’lishi kerak;\n- Har qanday fikr muhokama jarayonida o’z o’ziga zid bo’lmasligi kerak;\n\n566. Transendental mantiqning asoschisi:\nQ Kant.\n- Gegel;\n- Feyerbax;\n- Leybnis.\n\n567. Ziddiyatsizlik qonunining talabi bu:\nQbir-biriga zid ikki muhokama bir vaqtda xato bo’lishi mumkin emas;\n- fikr yuritish jarayoni ziddiyatsiz bo’lishi kerak;\n- bir predmet haqida aytilgan ikki qarama-qarshi hukm turli bo’lishi mumkin;\n- kishi ongida aks etayotgan, narsa-hodisalar zidiyatsiz bo’lmog’i zarur.\n\n568. Uchinchisini istisno qonunining talabi:\n- ikki zid fikr bir vaqtda chin bo’lishi mumkin emas, uchinchisiga o’rin bo’lmaydi.\n- ikki qarama-qarshi hukm bir vaqtda xato bo’ladi;\n- ikki qarama-qarshi hukm bir vaqtda chin bo’ladi;\n- agar fikrning yetarli asosi bo’lsa, u albatta chin bo’ladi;\n\n569. “Bir buyum haqida aytilgan ikki qarama-qarshi hukm ayni bir vaqt, nisbatda chin bo’lishi mumkin emas”- tafakkur qonunlarining qaysi birining talabi?\nQziddiyatsizlik;\n- ayniyat;\n- uchinchisnini istisno\n-  yetarli asosi;\n\n570. Tushunchani bo’lish nima?\n- berilgan tushunchaning hajmini ochib beruvchi mantiqiy usul.;\n- tushunchada ifodalanayotgan predmet va hodisalarning miqdoriy munosabatini aniqlovchi  mantiqiy usul;\n-  berilgan tushunchani hajmi jihatidan chegaralash va umumlashtirish usuli;\n- tushunchada ifodalanayotgan predmetni butun, qism, bo’laklarga ajratish usuli.\n\n571. Tushuncha nima?\nQ tushuncha- predmet- hodisalarni umumiy, muhim belgilari asosida aks ettiruvchi tafakkur shakli;\n- tushuncha-tafakkurning negizi, asosiy yadrosi;\n- tushuncha- voqyelikning hissiy tarzdagi obrazi;\n- tushuncha-obyektiv reallikning subyektiv obrazi;\n\n572. ”Mutafakkir”, “shoir”, “davlat arbobi”, “Alisher Navoiy”  tushunchalari o’rtasidagi munosabatni aniqlang.\nQ tur va jins, qisman moslik;\n- birga bo’yunish, moslik;\n- qisman bo’ysunish, zidlik;\n- tur va jins, moslik;\n\n573. Teskari  nisbat qonuniga  ko’ra quyidagi tushunchalarning qaysi birining mazmuni keng?\nQ qotillik;\n- jinoyat;\n- davlat huquqiy qonunlarini buzish;\n- siyosiy jinoyat.\n\n574. Tushunchani ta’riflash nima?\nQ tushunchaning mazmunini ochib beruvchi mantiqiy usul;\n- tushunchada ifodalanyotgan predmetning sifatini aniqlovchi mantiqiy usul;\n- tushunchada ifodalanyotgan predmetning ayrim xususiyatlarini ajratib ko’rsatuvchi mantiqiy usul;\n- tushunchaning xajmini belgilariga ko’ra ochib beruvchi mantiqiy usul.\n\n575. Quyidagi tariflarning qaysi birida uning qoidalariga  to’liq rioya qilingan?\nQ morfologiya- grammatikaning bir turi bo’lib, so’z formalari va qonun-qoidalarini o’rgatadi.\n- morfologiya- grammatika fanining bo’limi;\n- morfologiya- so’zning grammatik formalari haqidagi ta’limot;\n- morfologiya- so’z yasalish, so’z shakllari haqidagi ta’limot.\n\n576.  Quyidagi juft tushunchalarning qaysi biri birga bo’ysunish munosabatida?\nQfan, ijtimoiy fan, gumanitar fan.\n- maktab, oliy o’quv yurti;\n- fan, ijtimoiy fan, falsafa;\n- fan, san’at;\n\n577. Tushunchaning mazmuni bu:\nQ tushunchada ifodalanuvchi predmetlarning muhim belgilarining\nyig’indisi; \n- tushunchada ifodalanuvchi pedmetlar turlarining yig’indisi; \n- tushunchaning so’zda ifodalanishi;\n- tushuncha turlarining yig’indisi.\n\n578. Quyidagi tushunchalar o’rtasidagi munosabani aniqlang; «huquqshunoslik», « ofiser», «deputat».\nQ qisman moslik;\n- moslik;\n- bo’ysunuvchi;\n- birga bo’ysunuvchi.\n\n579.  Xulosa chiqarish bu:",
+      "options": [
+        "bir yoki undan ortiq xukmlardan yangi bir xukmni chiqaradigan\ntafakkur shaklidir;",
+        "tushunchalarni analiz va sintez qiladigan tafakkur shakli;\n S) xukmlapning chin yoki xato ekanligini mantiqan aniqlovchi\ntafakkur shakli; \nD) predmetning muhim belgilarini fikran yaxlitlashtirish.\n\n580.  «Jinoyatlar yoki qasddan yoxud bexosdan sodir etiladi» hukmining turini aniqlang.\nA) shartli murakkab; \nB) biriktiruvchi, murakkab; \nS) atributiv, sodda;\n D) ayiruvchi murakkab\n\n581. «Jinoyatlar yoki qasddan yoxud bexosdan sodir etiladi» hukmining turini aniqlang.\nA) shartli murakkab; \nB) biriktiruvchi, murakkab; \nS) atributiv, sodda;\n D) ayiruvchi murakkab\n\n582.  Sillogizm nima ?\nA) induktiv xulosa chiqarish;\nB) umumiy tasdiqlovchi xukmlardan yakka juz’iy tasdiqlovchi xulosa chiqarish; \nS) ikki qat’iy xukmning o’zaro o’rta termin vositasida bog’lanishi\norqali chiqarilgan xulosa; \nD) xukmlardagi subyekt va predikatlarning o’zaro munosabatga ko’ra\n\n583. Nominal ta’riflash bu:\nA) tushunchalarni ifodalovchi so’zning ma’nosini ochishga\nqaratilgan ta’rif;\n B) tushunchada ifodalanayotgan predmetning muhim belgisini\nko’rsatish orqali berilgan ta’rif;\n S) narsa va hodisaning paydo bo’lishini ko’rsatib berish asosida\nberilgan   ta’rif;\n D) qisqa va lo’nda ta’rif.\n\n584.  Quyidagi sodda hukmlarning qaysi biri atributiv hukm?\nA) Jinoyat jazosiz qolmasligi kerak;\n B) Sosiologiya - jamiyat qonunlarini o’rganuvchi fan; \nS) Samarqand Amir Temur davlatining poytaxti bo’lgan shahar; \nD) Samarqand geografik jihatdan eng kulay mintaqada joylashgan shahar.\n\n585. . Transendental mantiqning asoschisi:\n    A) Kant.\n      B)Gegel;\n\tS) Feyerbax;\n    D) Leybnis.\n\n586. “Bir buyum haqida aytilgan ikki qarama-qarshi hukm ayni bir vaqt, nisbatda chin bo’lishi mumkin emas”- tafakkur qonunlarining qaysi birining talabi?\nA) ayniyat;\nB) ziddiyatsizlik;\nS) uchinchisnini istisno\nD)  yetarli asosi;\nYe) teskari nisbat.\n\n587. Quyidagi gaplarning qaysi biri hukmni ifodalaydi?\nA) Alisher Navoiyni kim ham sevmaydi !\n B) Alisher Navoiy qaysi ijodiy metodda ijod qilgan ?\n S) Har bir fuqaro huquq qonunlariga bo’ysunishi shart. \nD) Afrosiyob-Samarqandning eng qadimgi nomi.\n\n588.  Ziddiyatsizlik qonunining talabi bu:\nA) bir-biriga zid ikki muhokama bir vaqtda xato bo’lishi mumkin emas;\nB) fikr yuritish jarayoni ziddiyatsiz bo’lishi kerak;\nS) bir predmet haqida aytilgan ikki qarama-qarshi hukm turli bo’lishi mumkin;\nD) kishi ongida aks etayotgan, narsa-hodisalar zidiyatsiz bo’lmog’i zarur.\n\n589. Shakliy mantiq (formalashgan mantiq) fani predmeti;\nA) ruhiyat;\nB) tafakkurning paydo bo’lishi, rivojlanishi;\nS) tafakkurning shakllari va qonunlari;\nD) isbot va inkor etish nazariyasining mantiqiy asoslari.\n\n590.  «Davlat», «demokratik davlat», «unitar davlat» tushunchalari o’rtasidagi munosabat.\nA) moslik;\n B) qisman moslik;\n S) tur va jins;\n D) birga bo’ysunish.\n\n591.   «Gap» tushunchasiga berilgan ta’rifning qaysi birida uning qoidalariga to’la rioya qilingan?\nA) fikrning grammatik shaklda ifodalanishi; \nB) so’zlar vositasi bilan anglashilgan fikr;\n S) so’zlarning grammatik bog’lamlar bilan bog’lanishi;\n D) so’zlarning bog’lanish shakli;\n\n592. Qat’iy - ayiruvchi (diz’yunktiv) hukmni aniqlang.\nA) bu yoki sodda yoki murakkab xukm;     \nB) davlatni boshqarish yoki parlament yoki monarxistik shaklda\nbo’ladi;\n S) falsafiy oqimlar, materialistik, idealistik va dualistik yo’nalishda bo’ladi;\n\n593.  Dialektik mantiq fani nimani o’rgatadi?\nA)tafakkurning mazmuni, rivojlanish qonunlarini; \nB) xulosa chiqarish va uning asosaiy qonun, qoidalarini; \nS) tafakkurning shakl va qonunlarini; \nD) tafakkur va tilning dialektik birligini.\n\n594.  Ehtimolli xulosa chiqarishning xususiyati bu:\nA) xulosaning chinligi aniq;\n B) xulosaning xatoligi aniq;\n S) yakkadan yakkalikka fikran o’tish;\nD) xulosasi asoslardan mantiqan qat’iy kelib chiqmasdan, qisman tasdiqlanadi.\n\n595.  Sillogizmning o’rta termini bu:\nA) asoslardagi eng katta tushuncha;\nB) hajm jihatdan subyektdan kichik tushuncha;\n S) kichik asosning predikati;\nD) katta va kichik asoslardan ishtirok etib, ularni o’zaro bog’lovchi tushuncha.\n\n596. «Agar yaxshilik qilish kishining qo’lidan kelmasa, yomonlik qilmasliknig o’zi savobdir» (hadis) hukm bu:\nA) ayiruvchi;                                                                                                      \nB) biriktiruvchi;\n S) implikativ; \nD) munosabatli.\n\n597.  Hukm nima? \nA) chin fikrni tasdiq tarzida ifodalovchi tafakkur shakli;\n B) xato fikrni inkor tarzida ifodalovchi tafakkur shakli;\n S) tushunchalarning o’zaro bog’lanish shakli; \nD) predmet, hodisalarning munosabatini, belgilarini tasdiq yoki inkor tarzida ifodalovchi tafakkur shakli.                                                                                \n\n598.  Sillogizmning kichik termini bu...\nA) kichik asosning subyekti;\nB) katta asosning predikati;\nS) kichik asosning predikati;\nD) hajm jihatidan eng kichik tushuncha.\n\n599.  Quyidagi    xulosa    sillogizmning    qaysi    figurasi    (shakli)    bo’yicha chiqarilgan?\n«Hamma planetalar Quyosh atrofida aylanadi. Oy Quyosh atrofida aylanmaydi. Demak, Oy planeta emas».\nA) birinchi figura bo’yicha;\n B) ikkinchi figura bo’yicha;\n S) uchinchi figura bo’yicha; \nD) to’rtinchi figura bo’yicha.\n\n600.  Quyidagi sillogizmning o’rta terminini aniqlang. «Hamma materialistlar ateist hisoblanadi. Bu kishi -materialist. Demak, bu kishi ateistdir».\nA) materialist;\n B) ateist; \nS) hisoblanadi;\n D) hamma.\n\n601.  Quyidagi sodda hukmlarning qaysi biri xarakteriga ko’ra atributiv hukm hisoblanadi?\nA) Samarqand - eng qadimiy shahar; \nB) Samarqand-O’zbekistonning birinchi poytaxti;\n S) Sazan balig’i yuz yildan ko’p yashaydi;\n D) Amir Temur davlatni kengash bilan boshqargan hukmdor;\n\n602. Tafakkurning shakllari deb nimaga aytiladi?\nAfikrning  simvollar, belgilar sistemasida ifodalanganligi;\nBfikr mazmuning til shaklida ifodalanish usuli;\nCfikrning [ichki] strukturaviy tuzilishi\nDfikr mazmuni qismlarining o’zaro bog’lanish usullari. \n\n603.Ayniyat qonuning talabi:\nAikki fikr bir vaqtda, munosabatda  mazmunan teng bo’lishi kerak;\nBikki qarama – qarshi fikr hajmi va mazmun jihatdan mos bo’lishi kerak;\nChar qanday fikr muhokama  jarayonida o’z o’ziga zid bo’lmasligikerak;\nDhar qanday fikr muhokama jarayonida  aynan  teng bo’lishi kerak.\n\n\n604. Ziddiyatsizdik qonunining talabi bu: \nAbir- biriga zid ikki muhokama birvaqtda xato bo’lishi mumkin emas;\nBfikr yuritish jarayoni ziddiyatsiz bo’lishi kerak;\nCbir predmet haqida aytilgan ikki  qarama – qarshi hukm turli bo’lishi mumkin;\nDkishi ongida aks etayotgan, narsa-hodisalar ziddiyatsiz bo’lmog’i zarur. \n\n605. Uchinchisi istisno qonunining talabi:\nAikki zid fikr bir vaqtda chin bo’lishi mumkin emas, uchinchisiga o’rin bo’lmaydi;\nBikki qarama – qarshi hukm bir vaqtda xato bo’ladi;\nCikki qarama- qarshi hukm bir vaqtda chin bo’ladi;\nDagar fikrning etarli asosi bo’lsa, u albatta chin  bo’ladi.\n\n606.«Bir buyum haqida aytilgan ikki qarama –qarshi fikr ayni bir vaqt, nisbatda birdaniga chin bo’lishi mumkin emas» - taffakur  qonunlarining qaysi birining talabi ?\nAayniyat ;\nBziddiyatsizlik;\nCuchinchisini istisno; \nDetarli asos;\nEteskari nisbat.\n\n607. Tushunchani bo’lish nima?\nAberilgan tushunchaning xajmini ochib beruvchi mantiqiy usul;\nBtushunchada ifodalanayotgan predmet  va hodisalarning miqdoriy\nCmunosabati aniqlovchi mantiqiy usul;\nDberilgan tushunchani xajmi jixatidan chegaralash va umumlashtirish usuli;\nEtushunchada ifodalanayotgan predmetni butun , qism bo’laklarga aj- \nratish usuli. \n\n608.  «Muttafakir», «shoir», «davlat arbobi», «Alisher Navoiy», tushunchalari o’rtasidagi munosabatni aniqlang.\nAtur va jins, qisman moslik;\nBbirga bo’ysinish, moslik;\nCqisman bo’ysinish, zidlik;\nDtur va jins, moslik;\n\n609. Real ta’riflash bu:\nAQisqa va lo’nda ta’riflash;\nBTushunchani ifodalovchi so’zning semantik ma’nosini ifodalovchi ta’rif;\nCtushunchaning hajmini aniqlash  bo’yicha berilgan ta’rif;\nDtushunchada ifodalangan predmetning muhim belgisini ko’rsatish orqali berilgan ta’rif.\n\n610.Tushunchaning hajmi bu:\nAtushunchada aks  etgan predmet turlarining yig’idisi;\nBtushunchaning so’z bilan bog’liqligi darajasi;\nCTushuncha aks etgan predmetning belgilari yig’indasi;  \nDtushunchaning hukm bilan mantiqan bog’lanish darajasi;\n\n611.«Huquqshunos» tushunchasining hajmini aniqlang?\nAprokuror, sudya, oqlovchi, qoralovchi;\nBbosh prokuror, bosh sudya, advakatlar kolegiyasi; \nChuquq masalasi bilan shug’ullanuvchi bacha mutaxassislar;\nDdavlat qonunlarni buzuvchilar  bilan shug’ullanuvchilar.\n\n612.«Unversitet», «ilmiy tekshirish instituti», «ilmiy daroh», tushunchalari o’rtasidagi munosabatni aniqlang.\nAbo’ysunish; \nBqarama – qarshilik;\nCqisman moslik;\nDbirga bo’ysunish.\n\n613.«Gap» tushunchasiga berilgan ta’rifning qaysi birida uning qoidalariga to’la rioya qilingan?\nAfikrning grammatik shaklda ifodalinishi;\nBso’zlar vositasi bilan anglashilgan fikr;\nCso’zlarning grammatik bog’lamlar bilan bog’lanishi;\nDso’zlarning bog’lanish shakli;\n\n614.«Odam» tushunchasi qaysi bir holda uning qoidalariga rioya\nqilib, bo’lingan?\nAyaxshi,yomon, maktab yoshidagi;\nBilmli, odobli, katta yoshdagi;\nCishchi ilg’or fikrli, o’rta yoshdagi;\nDmaterialistik dunyoqarashli, idealistik dunyoqarashli.\n615.Tushunchaning muhim belgisi bu:\nA.tushunchaning so’zda ifodalanishi;\nB.tushunchaning ifodalangan narsa va hodisalarning  bir-biridan \nfarqlanish;",
+        "predmet va hodisalariga sifat muayyanligi bag’ishlaydigan xususiyatlari;",
+        "tushunchaning muhokamadan farq qiladigan belgisi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "«Davlat», «demokratik davlat», «unitar davlat», tushunchalari\no’rtasidagi munosabat…",
+      "options": [
+        "moslik;",
+        "qisman moslik;",
+        "tur va jins;",
+        "birga bo’sunish."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nominal ta’riflash bu:",
+      "options": [
+        "tushunchalarni ifodalovchi so’zning ma’nosini ochishga qaratilgan ta’rif;",
+        "tushunchada ifodalanayotgan pedmetning muhim belgisini\nko’rsatish orqali berilgan ta’rif;",
+        "narsa va hodisaning paydo bo’lishini ko’rsatib berish asosida  \nberilgan   ta’rif;",
+        "qisqa va lo’nda ta’rif."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "«Ta’rif mutanosib bo’lmog’i kerak», degan qoida qaysi holda  buzilgan va «tor ta’riflash» degan hatolikka yo’l qo’yilgan?",
+      "options": [
+        "fe’l mustaqil so’z turkumidir;",
+        "mantiq falsafiy fandir;",
+        "huquqbuzarlik- ijtimoiy xavfli xatti  xarakatdir;",
+        "mantiq xulosa chiqarish va dalilashtirish nazariyasining mantiqiy asoslarini o’rgatuvchi fan."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "«Dunyoqarash o’zining mazmuniga ko’ra ilmiy va g’ayri- ilmiy bo’ladi», murakkab hukmining turini belgilang.",
+      "options": [
+        "implikativ-shartli hukm;",
+        "ekvivalent-tenglashtiruvchi hukm;",
+        "qat’iy ayriluvchi hukm;",
+        "kon’yuktiv, biriktiruvchi hukm."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Quyidagi gaplarning qaysi biri hukmni ifodalaydi?",
+      "options": [
+        "Aytingchi, soat necha bo’ldi?",
+        "Kim ham dengizda suzayotganda tabiatning qudratidan hayratlanmaydi deysiz!",
+        "Birorta qalbaki xujjat dalil hisoblanmaydi.",
+        "Jurnalistning hammasi filoglarmi?"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Juz’iy - tasdiqlovchi hukmni aniqlang.",
+      "options": [
+        "Hokimiyatga yo’llangan birorta ariza javobsizqolmasligi kerak;",
+        "Har bir malakali huquqshunos yuksak tafakkur madaniyatga ega bo’lmog’i kerak;",
+        "Guvohlar sudlov ishida to’g’ri ko’rsatma berishlari kerak;",
+        "Ayrim advokatlar vazirlik mahkamasining a’zolar."
+      ],
+      "correct": 3
+    }
+  ]
+]
