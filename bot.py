@@ -1,9 +1,9 @@
+import os
 import json, asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-TOKEN = "8373893020:AAFMidK_4Ey7t30rhIXpWA-N0R5Tnyo0Qzo"
-
+API_TOKEN = os.getenv("8373893020:AAFMidK_4Ey7t30rhIXpWA-N0R5Tnyo0Qzo")
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
@@ -148,3 +148,4 @@ async def handle_answer(callback: types.CallbackQuery):
 
 if __name__ == "__main__":
     executor.start_polling(dp, skip_updates=True)
+
